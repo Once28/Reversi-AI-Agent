@@ -1,0 +1,5480 @@
+#################### ROUND 1: random (O) vs student (X): game 1 ####################
+##### game start! #####
+INPUT for random:
+O
+300 300
+............
+............
+..XO........
+..OX........
+............
+............
+............
+............
+........XO..
+........OX..
+............
+............
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [e4] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+300 299.98
+............
+............
+..XO........
+..OOO.......
+............
+............
+............
+............
+........XO..
+........OX..
+............
+............
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [h10] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+O
+299.98 299.98
+............
+............
+..XO........
+..OOO.......
+............
+............
+............
+............
+........XO..
+.......XXX..
+............
+............
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [j11] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+299.98 299.96
+............
+............
+..XO........
+..OOO.......
+............
+............
+............
+............
+........XO..
+.......XXO..
+.........O..
+............
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [c5] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+O
+299.96 299.95
+............
+............
+..XO........
+..XOO.......
+..X.........
+............
+............
+............
+........XO..
+.......XXO..
+.........O..
+............
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [b6] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+299.95 299.94
+............
+............
+..XO........
+..XOO.......
+..O.........
+.O..........
+............
+............
+........XO..
+.......XXO..
+.........O..
+............
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [k9] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+O
+299.94 299.92
+............
+............
+..XO........
+..XOO.......
+..O.........
+.O..........
+............
+............
+........XXX.
+.......XXO..
+.........O..
+............
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [l8] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+299.92 299.91
+............
+............
+..XO........
+..XOO.......
+..O.........
+.O..........
+............
+...........O
+........XXO.
+.......XXO..
+.........O..
+............
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [l9] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+O
+299.91 299.9
+............
+............
+..XO........
+..XOO.......
+..O.........
+.O..........
+............
+...........O
+........XXXX
+.......XXO..
+.........O..
+............
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [g10] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+299.9 299.89
+............
+............
+..XO........
+..XOO.......
+..O.........
+.O..........
+............
+...........O
+........XXXX
+......OOOO..
+.........O..
+............
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [e5] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+O
+299.89 299.88
+............
+............
+..XO........
+..XXO.......
+..O.X.......
+.O..........
+............
+...........O
+........XXXX
+......OOOO..
+.........O..
+............
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [e3] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+299.88 299.87
+............
+............
+..XOO.......
+..XOO.......
+..O.X.......
+.O..........
+............
+...........O
+........XXXX
+......OOOO..
+.........O..
+............
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [h11] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+O
+299.87 299.86
+............
+............
+..XOO.......
+..XOO.......
+..O.X.......
+.O..........
+............
+...........O
+........XXXX
+......OOXO..
+.......X.O..
+............
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [f6] in 0.01s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+299.86 299.86
+............
+............
+..XOO.......
+..XOO.......
+..O.O.......
+.O...O......
+............
+...........O
+........XXXX
+......OOXO..
+.......X.O..
+............
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [k10] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+O
+299.86 299.84
+............
+............
+..XOO.......
+..XOO.......
+..O.O.......
+.O...O......
+............
+...........O
+........XXXX
+......OOXXX.
+.......X.O..
+............
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [b5] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+299.84 299.84
+............
+............
+..XOO.......
+..OOO.......
+.OO.O.......
+.O...O......
+............
+...........O
+........XXXX
+......OOXXX.
+.......X.O..
+............
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [i12] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+O
+299.84 299.82
+............
+............
+..XOO.......
+..OOO.......
+.OO.O.......
+.O...O......
+............
+...........O
+........XXXX
+......OOXXX.
+.......X.X..
+........X...
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [b3] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+299.82 299.81
+............
+............
+.OOOO.......
+..OOO.......
+.OO.O.......
+.O...O......
+............
+...........O
+........XXXX
+......OOXXX.
+.......X.X..
+........X...
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [f10] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+O
+299.81 299.8
+............
+............
+.OOOO.......
+..OOO.......
+.OO.O.......
+.O...O......
+............
+...........O
+........XXXX
+.....XXXXXX.
+.......X.X..
+........X...
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [i11] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+299.8 299.79
+............
+............
+.OOOO.......
+..OOO.......
+.OO.O.......
+.O...O......
+............
+...........O
+........XXOX
+.....XXXXOX.
+.......XOX..
+........X...
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [k8] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+O
+299.79 299.78
+............
+............
+.OOOO.......
+..OOO.......
+.OO.O.......
+.O...O......
+............
+..........XO
+........XXXX
+.....XXXXOX.
+.......XOX..
+........X...
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [l10] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+299.78 299.77
+............
+............
+.OOOO.......
+..OOO.......
+.OO.O.......
+.O...O......
+............
+..........XO
+........XXXO
+.....XXXXOOO
+.......XOX..
+........X...
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [l11] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+O
+299.77 299.75
+............
+............
+.OOOO.......
+..OOO.......
+.OO.O.......
+.O...O......
+............
+..........XO
+........XXXO
+.....XXXXOXO
+.......XOX.X
+........X...
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [h8] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+299.75 299.75
+............
+............
+.OOOO.......
+..OOO.......
+.OO.O.......
+.O...O......
+............
+.......O..XO
+........OXXO
+.....XXXXOXO
+.......XOX.X
+........X...
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [h12] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+O
+299.75 299.72
+............
+............
+.OOOO.......
+..OOO.......
+.OO.O.......
+.O...O......
+............
+.......O..XO
+........OXXO
+.....XXXXXXO
+.......XXX.X
+.......XX...
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [g11] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+299.72 299.73
+............
+............
+.OOOO.......
+..OOO.......
+.OO.O.......
+.O...O......
+............
+.......O..XO
+........OXXO
+.....XXOXXXO
+......OXXX.X
+.......XX...
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [g12] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+O
+299.73 299.69
+............
+............
+.OOOO.......
+..OOO.......
+.OO.O.......
+.O...O......
+............
+.......O..XO
+........OXXO
+.....XXOXXXO
+......XXXX.X
+......XXX...
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [k11] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+299.69 299.71
+............
+............
+.OOOO.......
+..OOO.......
+.OO.O.......
+.O...O......
+............
+.......O..XO
+........OXXO
+.....XXOXOXO
+......XXXXOX
+......XXX...
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [g9] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+O
+299.71 299.67
+............
+............
+.OOOO.......
+..OOO.......
+.OO.O.......
+.O...O......
+............
+.......O..XO
+......X.OXXO
+.....XXXXOXO
+......XXXXOX
+......XXX...
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [j8] in 0.01s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+299.67 299.7
+............
+............
+.OOOO.......
+..OOO.......
+.OO.O.......
+.O...O......
+............
+.......O.OOO
+......X.OOOO
+.....XXXXOXO
+......XXXXOX
+......XXX...
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [i8] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+O
+299.7 299.64
+............
+............
+.OOOO.......
+..OOO.......
+.OO.O.......
+.O...O......
+............
+.......OXOOO
+......X.XXOO
+.....XXXXOXO
+......XXXXOX
+......XXX...
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [h9] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+299.64 299.67
+............
+............
+.OOOO.......
+..OOO.......
+.OO.O.......
+.O...O......
+............
+.......OXOOO
+......XOOOOO
+.....XXXXOXO
+......XXXXOX
+......XXX...
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [k7] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+O
+299.67 299.62
+............
+............
+.OOOO.......
+..OOO.......
+.OO.O.......
+.O...O......
+..........X.
+.......OXXXO
+......XOXOXO
+.....XXXXOXO
+......XXXXOX
+......XXX...
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [k6] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+299.62 299.65
+............
+............
+.OOOO.......
+..OOO.......
+.OO.O.......
+.O...O....O.
+..........O.
+.......OXXOO
+......XOXOOO
+.....XXXXOOO
+......XXXXOX
+......XXX...
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [g8] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+O
+299.65 299.6
+............
+............
+.OOOO.......
+..OOO.......
+.OO.O.......
+.O...O....O.
+..........O.
+......XXXXOO
+......XXXOOO
+.....XXXXOOO
+......XXXXOX
+......XXX...
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [f8] in 0.01s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+299.6 299.64
+............
+............
+.OOOO.......
+..OOO.......
+.OO.O.......
+.O...O....O.
+..........O.
+.....OOOOOOO
+......XXXOOO
+.....XXXXOOO
+......XXXXOX
+......XXX...
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [f7] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+O
+299.64 299.58
+............
+............
+.OOOO.......
+..OOO.......
+.OO.O.......
+.O...O....O.
+.....X....O.
+.....OXOOOOO
+......XXXOOO
+.....XXXXOOO
+......XXXXOX
+......XXX...
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [e11] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+299.58 299.62
+............
+............
+.OOOO.......
+..OOO.......
+.OO.O.......
+.O...O....O.
+.....X....O.
+.....OXOOOOO
+......OXXOOO
+.....OXXXOOO
+....O.XXXXOX
+......XXX...
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [i7] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+O
+299.62 299.55
+............
+............
+.OOOO.......
+..OOO.......
+.OO.O.......
+.O...O....O.
+.....X..X.O.
+.....OXOXOOO
+......OXXOOO
+.....OXXXOOO
+....O.XXXXOX
+......XXX...
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [g7] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+299.55 299.6
+............
+............
+.OOOO.......
+..OOO.......
+.OO.O.......
+.O...O....O.
+.....XO.X.O.
+.....OOOXOOO
+......OXXOOO
+.....OXXXOOO
+....O.XXXXOX
+......XXX...
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [d12] in 0.04s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+O
+299.6 299.51
+............
+............
+.OOOO.......
+..OOO.......
+.OO.O.......
+.O...O....O.
+.....XO.X.O.
+.....OOXXOOO
+......XXXOOO
+.....XXXXOOO
+....X.XXXXOX
+...X..XXX...
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [e6] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+299.51 299.58
+............
+............
+.OOOO.......
+..OOO.......
+.OO.O.......
+.O..OO....O.
+.....OO.X.O.
+.....OOXXOOO
+......XXXOOO
+.....XXXXOOO
+....X.XXXXOX
+...X..XXX...
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [l6] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+O
+299.58 299.49
+............
+............
+.OOOO.......
+..OOO.......
+.OO.O.......
+.O..OO....OX
+.....OO.X.X.
+.....OOXXXOO
+......XXXOOO
+.....XXXXOOO
+....X.XXXXOX
+...X..XXX...
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [f11] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+299.49 299.55
+............
+............
+.OOOO.......
+..OOO.......
+.OO.O.......
+.O..OO....OX
+.....OO.X.X.
+.....OOXXXOO
+......XXXOOO
+.....XXXXOOO
+....XOOOOOOX
+...X..XXX...
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [d5] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+O
+299.55 299.46
+............
+............
+.OOOO.......
+..OOO.......
+.OOXO.......
+.O..XO....OX
+.....XO.X.X.
+.....OXXXXOO
+......XXXOOO
+.....XXXXOOO
+....XOOOOOOX
+...X..XXX...
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [h7] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+299.46 299.52
+............
+............
+.OOOO.......
+..OOO.......
+.OOXO.......
+.O..XO....OX
+.....XOOX.X.
+.....OXOOXOO
+......XOXOOO
+.....XXOXOOO
+....XOOOOOOX
+...X..XXX...
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [b2] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+O
+299.52 299.44
+............
+.X..........
+.OXOO.......
+..OXO.......
+.OOXX.......
+.O..XX....OX
+.....XXOX.X.
+.....OXXOXOO
+......XOXOOO
+.....XXOXOOO
+....XOOOOOOX
+...X..XXX...
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [h6] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+299.44 299.5
+............
+.X..........
+.OXOO.......
+..OXO.......
+.OOXX.......
+.O..XX.O..OX
+.....XOOO.X.
+.....OXXOOOO
+......XOXOOO
+.....XXOXOOO
+....XOOOOOOX
+...X..XXX...
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [f12] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+O
+299.5 299.42
+............
+.X..........
+.OXOO.......
+..OXO.......
+.OOXX.......
+.O..XX.O..OX
+.....XOOO.X.
+.....OXXOOOO
+......XOXOOO
+.....XXXXOOO
+....XXXOOOOX
+...X.XXXX...
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [f9] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+299.42 299.47
+............
+.X..........
+.OXOO.......
+..OXO.......
+.OOXX.......
+.O..XX.O..OX
+.....XOOO.X.
+.....OOXOOOO
+.....OOOXOOO
+.....XOXXOOO
+....XXXOOOOX
+...X.XXXX...
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [e8] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+O
+299.47 299.39
+............
+.X..........
+.OXOO.......
+..OXO.......
+.OOXX.......
+.O..XX.O..OX
+.....XOOO.X.
+....XXXXOOOO
+.....XOOXOOO
+.....XXXXOOO
+....XXXXOOOX
+...X.XXXX...
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [e12] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+299.39 299.450000000001
+............
+.X..........
+.OXOO.......
+..OXO.......
+.OOXX.......
+.O..XX.O..OX
+.....XOOO.X.
+....XXXXOOOO
+.....XOOXOOO
+.....XOXXOOO
+....XOXXOOOX
+...XOXXXX...
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [c6] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+O
+299.450000000001 299.360000000001
+............
+.X..........
+.OXOO.......
+..XXO.......
+.OXXX.......
+.OX.XX.O..OX
+.....XOOO.X.
+....XXXXOOOO
+.....XOOXOOO
+.....XOXXOOO
+....XOXXOOOX
+...XOXXXX...
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [b7] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+299.360000000001 299.420000000001
+............
+.X..........
+.OXOO.......
+..XXO.......
+.OXOX.......
+.OO.XX.O..OX
+.O...XOOO.X.
+....XXXXOOOO
+.....XOOXOOO
+.....XOXXOOO
+....XOXXOOOX
+...XOXXXX...
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [a6] in 0.01s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+O
+299.420000000001 299.350000000001
+............
+.X..........
+.OXOO.......
+..XXO.......
+.XXOX.......
+XOO.XX.O..OX
+.O...XOOO.X.
+....XXXXOOOO
+.....XOOXOOO
+.....XOXXOOO
+....XOXXOOOX
+...XOXXXX...
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [l12] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+299.350000000001 299.400000000001
+............
+.X..........
+.OXOO.......
+..XXO.......
+.XXOX.......
+XOO.XX.O..OX
+.O...XOOO.X.
+....XXXXOOOO
+.....XOOXOOO
+.....XOXXOOO
+....XOXXOOOO
+...XOXXXX..O
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [g6] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+O
+299.400000000001 299.330000000001
+............
+.X..........
+.OXOO.......
+..XXO.......
+.XXOX.......
+XOO.XXXO..OX
+.O...XXOO.X.
+....XXXXOOOO
+.....XOOXOOO
+.....XOXXOOO
+....XOXXOOOO
+...XOXXXX..O
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [c2] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+299.330000000001 299.380000000001
+............
+.XO.........
+.OOOO.......
+..OXO.......
+.XOOX.......
+XOO.XXXO..OX
+.O...XXOO.X.
+....XXXXOOOO
+.....XOOXOOO
+.....XOXXOOO
+....XOXXOOOO
+...XOXXXX..O
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [b8] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+O
+299.380000000001 299.300000000001
+............
+.XO.........
+.OOOO.......
+..OXO.......
+.XOOX.......
+XXO.XXXO..OX
+.X...XXOO.X.
+.X..XXXXOOOO
+.....XOOXOOO
+.....XOXXOOO
+....XOXXOOOO
+...XOXXXX..O
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [a2] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+299.300000000001 299.360000000001
+............
+OOO.........
+.OOOO.......
+..OXO.......
+.XOOX.......
+XXO.XXXO..OX
+.X...XXOO.X.
+.X..XXXXOOOO
+.....XOOXOOO
+.....XOXXOOO
+....XOXXOOOO
+...XOXXXX..O
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [e2] in 0.01s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+O
+299.360000000001 299.290000000001
+............
+OOO.X.......
+.OOXX.......
+..XXX.......
+.XOOX.......
+XXO.XXXO..OX
+.X...XXOO.X.
+.X..XXXXOOOO
+.....XOOXOOO
+.....XOXXOOO
+....XOXXOOOO
+...XOXXXX..O
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [f5] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+299.290000000001 299.340000000001
+............
+OOO.X.......
+.OOOX.......
+..XXO.......
+.XOOOO......
+XXO.XOOO..OX
+.X...OXOO.X.
+.X..XOXXOOOO
+.....OOOXOOO
+.....OOXXOOO
+....XOXXOOOO
+...XOXXXX..O
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [l7] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+O
+299.340000000001 299.260000000001
+............
+OOO.X.......
+.OOOX.......
+..XXO.......
+.XOOOO......
+XXO.XOOO..OX
+.X...OXOO.XX
+.X..XOXXOOXO
+.....OOOXXOO
+.....OOXXOOO
+....XOXXOOOO
+...XOXXXX..O
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [l5] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+299.260000000001 299.320000000001
+............
+OOO.X.......
+.OOOX.......
+..XXO.......
+.XOOOO.....O
+XXO.XOOO..OO
+.X...OXOO.XO
+.X..XOXXOOXO
+.....OOOXXOO
+.....OOXXOOO
+....XOXXOOOO
+...XOXXXX..O
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [d2] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+O
+299.320000000001 299.230000000001
+............
+OOOXX.......
+.OOXX.......
+..XXO.......
+.XOOOO.....O
+XXO.XOOO..OO
+.X...OXOO.XO
+.X..XOXXOOXO
+.....OOOXXOO
+.....OOXXOOO
+....XOXXOOOO
+...XOXXXX..O
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [j12] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+299.230000000001 299.300000000001
+............
+OOOXX.......
+.OOXX.......
+..XXO.......
+.XOOOO.....O
+XXO.XOOO..OO
+.X...OXOO.XO
+.X..XOXXOOXO
+.....OOOXXOO
+.....OOXXOOO
+....XOXXOOOO
+...XOOOOOO.O
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [a1] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+O
+299.300000000001 299.210000000001
+X...........
+OXOXX.......
+.OXXX.......
+..XXO.......
+.XOOOO.....O
+XXO.XOOO..OO
+.X...OXOO.XO
+.X..XOXXOOXO
+.....OOOXXOO
+.....OOXXOOO
+....XOXXOOOO
+...XOOOOOO.O
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [d6] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+299.210000000001 299.280000000001
+X...........
+OXOXX.......
+.OXXX.......
+..XXO.......
+.XOOOO.....O
+XXOOOOOO..OO
+.X...OXOO.XO
+.X..XOXXOOXO
+.....OOOXXOO
+.....OOXXOOO
+....XOXXOOOO
+...XOOOOOO.O
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [e7] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+O
+299.280000000001 299.180000000001
+X...........
+OXOXX.......
+.OXXX.......
+..XXX.......
+.XOOXO.....O
+XXOOXOOO..OO
+.X..XXXOO.XO
+.X..XXXXOOXO
+.....OXOXXOO
+.....OOXXOOO
+....XOXXOOOO
+...XOOOOOO.O
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [d1] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+299.180000000001 299.260000000001
+X..O........
+OXOOX.......
+.OXOX.......
+..XOX.......
+.XOOXO.....O
+XXOOXOOO..OO
+.X..XXXOO.XO
+.X..XXXXOOXO
+.....OXOXXOO
+.....OOXXOOO
+....XOXXOOOO
+...XOOOOOO.O
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [d7] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+O
+299.260000000001 299.160000000001
+X..O........
+OXOOX.......
+.OXOX.......
+..XOX.......
+.XOOXO.....O
+XXXOXOOO..OO
+.X.XXXXOO.XO
+.X..XXXXOOXO
+.....OXOXXOO
+.....OOXXOOO
+....XOXXOOOO
+...XOOOOOO.O
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [c7] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+299.160000000001 299.230000000001
+X..O........
+OXOOX.......
+.OXOX.......
+..XOX.......
+.XOOXO.....O
+XXOOXOOO..OO
+.XOOOOOOO.XO
+.X..XXXXOOXO
+.....OXOXXOO
+.....OOXXOOO
+....XOXXOOOO
+...XOOOOOO.O
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [b1] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+O
+299.230000000001 299.130000000001
+XX.O........
+OXXOX.......
+.OXXX.......
+..XOX.......
+.XOOXO.....O
+XXOOXOOO..OO
+.XOOOOOOO.XO
+.X..XXXXOOXO
+.....OXOXXOO
+.....OOXXOOO
+....XOXXOOOO
+...XOOOOOO.O
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [e9] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+299.130000000001 299.200000000001
+XX.O........
+OXXOX.......
+.OXXX.......
+..XOX.......
+.XOOXO.....O
+XXOOXOOO..OO
+.XOOOOOOO.XO
+.X..OOXXOOXO
+....OOXOXXOO
+.....OOXXOOO
+....XOXXOOOO
+...XOOOOOO.O
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [j6] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+O
+299.200000000001 299.100000000001
+XX.O........
+OXXOX.......
+.OXXX.......
+..XOX.......
+.XOOXO.....O
+XXOOXOOO.XOO
+.XOOOOOOX.XO
+.X..OOXXOOXO
+....OOXOXXOO
+.....OOXXOOO
+....XOXXOOOO
+...XOOOOOO.O
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [i6] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+299.100000000001 299.180000000001
+XX.O........
+OXXOX.......
+.OXXX.......
+..XOX.......
+.XOOXO.....O
+XXOOXOOOOOOO
+.XOOOOOOO.XO
+.X..OOXXOOXO
+....OOXOXXOO
+.....OOXXOOO
+....XOXXOOOO
+...XOOOOOO.O
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [c1] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+O
+299.180000000001 299.070000000001
+XXXO........
+OXXXX.......
+.OXXX.......
+..XOX.......
+.XOOXO.....O
+XXOOXOOOOOOO
+.XOOOOOOO.XO
+.X..OOXXOOXO
+....OOXOXXOO
+.....OOXXOOO
+....XOXXOOOO
+...XOOOOOO.O
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [d10] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+299.070000000001 299.160000000001
+XXXO........
+OXXXX.......
+.OXXX.......
+..XOX.......
+.XOOXO.....O
+XXOOXOOOOOOO
+.XOOOOOOO.XO
+.X..OOXXOOXO
+....OOXOXXOO
+...O.OOXXOOO
+....OOXXOOOO
+...XOOOOOO.O
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [i5] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+O
+299.160000000001 299.040000000001
+XXXO........
+OXXXX.......
+.OXXX.......
+..XOX.......
+.XOOXO..X..O
+XXOOXOOOXXOO
+.XOOOOOOX.XO
+.X..OOXXXOXO
+....OOXOXXOO
+...O.OOXXOOO
+....OOXXOOOO
+...XOOOOOO.O
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [h4] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+299.040000000001 299.130000000001
+XXXO........
+OXXXX.......
+.OXXX.......
+..XOX..O....
+.XOOXO..O..O
+XXOOXOOOXOOO
+.XOOOOOOX.OO
+.X..OOXXXOXO
+....OOXOXXOO
+...O.OOXXOOO
+....OOXXOOOO
+...XOOOOOO.O
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [k5] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+O
+299.130000000001 299.010000000001
+XXXO........
+OXXXX.......
+.OXXX.......
+..XOX..O....
+.XOOXO..O.XO
+XXOOXOOOXXXO
+.XOOOOOOX.XO
+.X..OOXXXOXO
+....OOXOXXOO
+...O.OOXXOOO
+....OOXXOOOO
+...XOOOOOO.O
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [a8] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+299.010000000001 299.100000000001
+XXXO........
+OXXXX.......
+.OXXX.......
+..XOX..O....
+.XOOXO..O.XO
+XXOOXOOOXXXO
+.OOOOOOOX.XO
+OX..OOXXXOXO
+....OOXOXXOO
+...O.OOXXOOO
+....OOXXOOOO
+...XOOOOOO.O
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [h5] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+O
+299.100000000001 298.980000000001
+XXXO........
+OXXXX.......
+.OXXX.......
+..XOX..O....
+.XOOXO.XO.XO
+XXOOXOOXXXXO
+.OOOOOOXX.XO
+OX..OOXXXOXO
+....OOXOXXOO
+...O.OOXXOOO
+....OOXXOOOO
+...XOOOOOO.O
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [i4] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+298.980000000001 299.070000000001
+XXXO........
+OXXXX.......
+.OXXX.......
+..XOX..OO...
+.XOOXO.OO.XO
+XXOOXOOXXXXO
+.OOOOOOXX.XO
+OX..OOXXXOXO
+....OOXOXXOO
+...O.OOXXOOO
+....OOXXOOOO
+...XOOOOOO.O
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [g3] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+O
+299.070000000001 298.950000000001
+XXXO........
+OXXXX.......
+.OXXX.X.....
+..XOX..XO...
+.XOOXO.OX.XO
+XXOOXOOXXXXO
+.OOOOOOXX.XO
+OX..OOXXXOXO
+....OOXOXXOO
+...O.OOXXOOO
+....OOXXOOOO
+...XOOOOOO.O
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [a9] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+298.950000000001 299.050000000001
+XXXO........
+OXXXX.......
+.OXXX.X.....
+..XOX..XO...
+.XOOXO.OX.XO
+XXOOXOOXXXXO
+.OOOOOOXX.XO
+OO..OOXXXOXO
+O...OOXOXXOO
+...O.OOXXOOO
+....OOXXOOOO
+...XOOOOOO.O
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [g5] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+O
+299.050000000001 298.920000000001
+XXXO........
+OXXXX.......
+.OXXX.X.....
+..XOX..XO...
+.XOOXXXXX.XO
+XXOOXOXXXXXO
+.OOOOOXXX.XO
+OO..OOXXXOXO
+O...OOXOXXOO
+...O.OOXXOOO
+....OOXXOOOO
+...XOOOOOO.O
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [b4] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+298.920000000001 299.020000000001
+XXXO........
+OXXXX.......
+.OXXX.X.....
+.OOOX..XO...
+.OOOXXXXX.XO
+XOOOXOXXXXXO
+.OOOOOXXX.XO
+OO..OOXXXOXO
+O...OOXOXXOO
+...O.OOXXOOO
+....OOXXOOOO
+...XOOOOOO.O
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [a7] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+O
+299.020000000001 298.900000000001
+XXXO........
+OXXXX.......
+.OXXX.X.....
+.OOXX..XO...
+.OXOXXXXX.XO
+XXOOXOXXXXXO
+XXXXXXXXX.XO
+OO..OOXXXOXO
+O...OOXOXXOO
+...O.OOXXOOO
+....OOXXOOOO
+...XOOOOOO.O
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [c8] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+298.900000000001 299.000000000001
+XXXO........
+OXXXX.......
+.OXXX.X.....
+.OOXX..XO...
+.OXOXXXXX.XO
+XXOOXOXXXXXO
+XXOXXXXXX.XO
+OOO.OOXXXOXO
+O...OOXOXXOO
+...O.OOXXOOO
+....OOXXOOOO
+...XOOOOOO.O
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [j3] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+O
+299.000000000001 298.880000000001
+XXXO........
+OXXXX.......
+.OXXX.X..X..
+.OOXX..XX...
+.OXOXXXXX.XO
+XXOOXOXXXXXO
+XXOXXXXXX.XO
+OOO.OOXXXOXO
+O...OOXOXXOO
+...O.OOXXOOO
+....OOXXOOOO
+...XOOOOOO.O
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [j5] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+298.880000000001 298.980000000001
+XXXO........
+OXXXX.......
+.OXXX.X..X..
+.OOXX..XX...
+.OXOOOOOOOOO
+XXOOXOXXOXOO
+XXOXXXXOX.XO
+OOO.OOOXXOXO
+O...OOXOXXOO
+...O.OOXXOOO
+....OOXXOOOO
+...XOOOOOO.O
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [d9] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+O
+298.980000000001 298.860000000001
+XXXO........
+OXXXX.......
+.OXXX.X..X..
+.OOXX..XX...
+.OXOOOOOOOOO
+XXOOXOXXOXOO
+XXOXXXXOX.XO
+OOX.XOOXXOXO
+O..XXXXOXXOO
+...O.OOXXOOO
+....OOXXOOOO
+...XOOOOOO.O
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [e1] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+298.860000000001 298.950000000001
+XXXOO.......
+OXXOO.......
+.OOXO.X..X..
+.OOXO..XX...
+.OXOOOOOOOOO
+XXOOXOXXOXOO
+XXOXXXXOX.XO
+OOX.XOOXXOXO
+O..XXXXOXXOO
+...O.OOXXOOO
+....OOXXOOOO
+...XOOOOOO.O
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [j4] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+O
+298.950000000001 298.830000000001
+XXXOO.......
+OXXOO.......
+.OOXO.X..X..
+.OOXO..XXX..
+.OXOOOOOXXOO
+XXOOXOXXOXOO
+XXOXXXXOX.XO
+OOX.XOOXXOXO
+O..XXXXOXXOO
+...O.OOXXOOO
+....OOXXOOOO
+...XOOOOOO.O
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [k4] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+298.830000000001 298.920000000001
+XXXOO.......
+OXXOO.......
+.OOXO.X..X..
+.OOXO..XXXO.
+.OXOOOOOXOOO
+XXOOXOXXOXOO
+XXOXXXXOX.XO
+OOX.XOOXXOXO
+O..XXXXOXXOO
+...O.OOXXOOO
+....OOXXOOOO
+...XOOOOOO.O
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [f4] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+O
+298.920000000001 298.810000000001
+XXXOO.......
+OXXXO.......
+.OOXX.X..X..
+.OOXXX.XXXO.
+.OXOOXXOXOOO
+XXOOXXXXOXOO
+XXOXXXXOX.XO
+OOX.XOOXXOXO
+O..XXXXOXXOO
+...O.OOXXOOO
+....OOXXOOOO
+...XOOOOOO.O
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [f2] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+298.810000000001 298.900000000001
+XXXOO.......
+OXXXOO......
+.OOXX.O..X..
+.OOXXX.OXXO.
+.OXOOXXOOOOO
+XXOOXXXXOOOO
+XXOXXXXOX.OO
+OOX.XOOXXOXO
+O..XXXXOXXOO
+...O.OOXXOOO
+....OOXXOOOO
+...XOOOOOO.O
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [c11] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+O
+298.900000000001 298.790000000001
+XXXOO.......
+OXXXOO......
+.OOXX.O..X..
+.OOXXX.OXXO.
+.OXOOXXOOOOO
+XXOOXXXXOOOO
+XXOXXXXOX.OO
+OOX.XOOXXOXO
+O..XXXXOXXOO
+...X.OOXXOOO
+..X.OOXXOOOO
+...XOOOOOO.O
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [h3] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+298.790000000001 298.870000000001
+XXXOO.......
+OXXXOO......
+.OOXX.OO.X..
+.OOXXX.OOXO.
+.OXOOXXOOOOO
+XXOOXXXXOOOO
+XXOXXXXOX.OO
+OOX.XOOXXOXO
+O..XXXXOXXOO
+...X.OOXXOOO
+..X.OOXXOOOO
+...XOOOOOO.O
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [e10] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+O
+298.870000000001 298.770000000001
+XXXOO.......
+OXXXOO......
+.OOXX.OO.X..
+.OOXXX.OOXO.
+.OXOOXXOOOOO
+XXOOXXXXOOOO
+XXOXXXXOX.OO
+OOX.XOOXXOXO
+O..XXXXOXXOO
+...XXXXXXOOO
+..X.OOXXOOOO
+...XOOOOOO.O
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [i3] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+298.770000000001 298.840000000001
+XXXOO.......
+OXXXOO......
+.OOXX.OOOX..
+.OOXXX.OOOO.
+.OXOOXXOOOOO
+XXOOXXXXOOOO
+XXOXXXXOX.OO
+OOX.XOOXXOXO
+O..XXXXOXXOO
+...XXXXXXOOO
+..X.OOXXOOOO
+...XOOOOOO.O
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [g2] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+O
+298.840000000001 298.750000000001
+XXXOO.......
+OXXXXXX.....
+.OOXX.OOOX..
+.OOXXX.OOOO.
+.OXOOXXOOOOO
+XXOOXXXXOOOO
+XXOXXXXOX.OO
+OOX.XOOXXOXO
+O..XXXXOXXOO
+...XXXXXXOOO
+..X.OOXXOOOO
+...XOOOOOO.O
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [f3] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+298.750000000001 298.810000000001
+XXXOO.......
+OXXXOXX.....
+.OOOOOOOOX..
+.OOXOO.OOOO.
+.OXOOOXOOOOO
+XXOOXOXXOOOO
+XXOXXOXOX.OO
+OOX.XOOXXOXO
+O..XXXXOXXOO
+...XXXXXXOOO
+..X.OOXXOOOO
+...XOOOOOO.O
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [a5] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+O
+298.810000000001 298.720000000001
+XXXOO.......
+OXXXOXX.....
+.OXOOOOOOX..
+.XOXOO.OOOO.
+XXXOOOXOOOOO
+XXOOXOXXOOOO
+XXOXXOXOX.OO
+OOX.XOOXXOXO
+O..XXXXOXXOO
+...XXXXXXOOO
+..X.OOXXOOOO
+...XOOOOOO.O
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [h1] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+298.720000000001 298.790000000001
+XXXOO..O....
+OXXXOXO.....
+.OXOOOOOOX..
+.XOXOO.OOOO.
+XXXOOOXOOOOO
+XXOOXOXXOOOO
+XXOXXOXOX.OO
+OOX.XOOXXOXO
+O..XXXXOXXOO
+...XXXXXXOOO
+..X.OOXXOOOO
+...XOOOOOO.O
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [l3] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+O
+298.790000000001 298.700000000001
+XXXOO..O....
+OXXXOXO.....
+.OXOOOOOOX.X
+.XOXOO.OOOX.
+XXXOOOXOOXOO
+XXOOXOXXXOOO
+XXOXXOXXX.OO
+OOX.XOXXXOXO
+O..XXXXOXXOO
+...XXXXXXOOO
+..X.OOXXOOOO
+...XOOOOOO.O
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [j2] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+298.700000000001 298.770000000001
+XXXOO..O....
+OXXXOXO..O..
+.OXOOOOOOO.X
+.XOXOO.OOOX.
+XXXOOOXOOXOO
+XXOOXOXXXOOO
+XXOXXOXXX.OO
+OOX.XOXXXOXO
+O..XXXXOXXOO
+...XXXXXXOOO
+..X.OOXXOOOO
+...XOOOOOO.O
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [c9] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+O
+298.770000000001 298.670000000001
+XXXOO..O....
+OXXXOXO..O..
+.OXOOOOOOO.X
+.XOXOO.OOOX.
+XXXOOOXOOXOO
+XXOOXOXXXOOO
+XXOXXOXXX.OO
+OXX.XOXXXOXO
+O.XXXXXOXXOO
+...XXXXXXOOO
+..X.OOXXOOOO
+...XOOOOOO.O
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [b9] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+298.670000000001 298.750000000001
+XXXOO..O....
+OXXXOXO..O..
+.OXOOOOOOO.X
+.OOXOO.OOOX.
+XOXOOOXOOXOO
+XOOOOOXXXOOO
+XOOOXOXXX.OO
+OOO.XOXXXOXO
+OOOOOOOOXXOO
+...XXXXXXOOO
+..X.OOXXOOOO
+...XOOOOOO.O
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [h2] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+O
+298.750000000001 298.640000000001
+XXXOO..O....
+OXXXOXXX.O..
+.OXOOOOXOO.X
+.OOXOO.XOOX.
+XOXOOOXXOXOO
+XOOOOOXXXOOO
+XOOOXOXXX.OO
+OOO.XOXXXOXO
+OOOOOOOOXXOO
+...XXXXXXOOO
+..X.OOXXOOOO
+...XOOOOOO.O
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [i1] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+298.640000000001 298.730000000001
+XXXOO..OO...
+OXXXOXXO.O..
+.OXOOOOXOO.X
+.OOXOO.XOOX.
+XOXOOOXXOXOO
+XOOOOOXXXOOO
+XOOOXOXXX.OO
+OOO.XOXXXOXO
+OOOOOOOOXXOO
+...XXXXXXOOO
+..X.OOXXOOOO
+...XOOOOOO.O
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [c10] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+O
+298.730000000001 298.610000000001
+XXXOO..OO...
+OXXXOXXO.O..
+.OXOOOOXOO.X
+.OOXOO.XOOX.
+XOXOOOXXOXOO
+XOXOOOXXXOOO
+XOXOXOXXX.OO
+OOX.XOXXXOXO
+OOXXOOOOXXOO
+..XXXXXXXOOO
+..X.OOXXOOOO
+...XOOOOOO.O
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [l4] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+298.610000000001 298.710000000001
+XXXOO..OO...
+OXXXOXXO.O..
+.OXOOOOXOO.X
+.OOXOO.XOOOO
+XOXOOOXXOXOO
+XOXOOOXXXOOO
+XOXOXOXXX.OO
+OOX.XOXXXOXO
+OOXXOOOOXXOO
+..XXXXXXXOOO
+..X.OOXXOOOO
+...XOOOOOO.O
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [a10] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+O
+298.710000000001 298.580000000001
+XXXOO..OO...
+OXXXOXXO.O..
+.OXOOOOXOO.X
+.OOXOO.XOOOO
+XOXOOOXXOXOO
+XOXOOOXXXOOO
+XOXOXOXXX.OO
+XOX.XOXXXOXO
+XXXXOOOOXXOO
+X.XXXXXXXOOO
+..X.OOXXOOOO
+...XOOOOOO.O
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [l2] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+298.580000000001 298.690000000001
+XXXOO..OO...
+OXXXOXXO.O.O
+.OXOOOOXOO.O
+.OOXOO.XOOOO
+XOXOOOXXOXOO
+XOXOOOXXXOOO
+XOXOXOXXX.OO
+XOX.XOXXXOXO
+XXXXOOOOXXOO
+X.XXXXXXXOOO
+..X.OOXXOOOO
+...XOOOOOO.O
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [k1] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+O
+298.690000000001 298.560000000001
+XXXOO..OO.X.
+OXXXOXXO.X.O
+.OXOOOOXXO.O
+.OOXOO.XOOOO
+XOXOOOXXOXOO
+XOXOOOXXXOOO
+XOXOXOXXX.OO
+XOX.XOXXXOXO
+XXXXOOOOXXOO
+X.XXXXXXXOOO
+..X.OOXXOOOO
+...XOOOOOO.O
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [j7] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+298.560000000001 298.660000000001
+XXXOO..OO.X.
+OXXXOXXO.X.O
+.OXOOOOXXO.O
+.OOXOO.XOOOO
+XOXOOOXXOXOO
+XOXOOOXXXOOO
+XOXOXOOOOOOO
+XOX.XOXXOOOO
+XXXXOOOOXXOO
+X.XXXXXXXOOO
+..X.OOXXOOOO
+...XOOOOOO.O
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [k2] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+O
+298.660000000001 298.530000000001
+XXXOO..OO.X.
+OXXXOXXO.XXO
+.OXOOOOXXX.O
+.OOXOO.XXOOO
+XOXOOOXXOXOO
+XOXOOOXXXOOO
+XOXOXOOOOOOO
+XOX.XOXXOOOO
+XXXXOOOOXXOO
+X.XXXXXXXOOO
+..X.OOXXOOOO
+...XOOOOOO.O
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [d8] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+298.530000000001 298.640000000001
+XXXOO..OO.X.
+OXXXOXXO.XXO
+.OXOOOOXXX.O
+.OOXOO.XXOOO
+XOXOOOXXOXOO
+XOXOOOXXXOOO
+XOOOOOOOOOOO
+XOOOOOXXOOOO
+XXXXOOOOXXOO
+X.XXXXXXXOOO
+..X.OOXXOOOO
+...XOOOOOO.O
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [i2] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+O
+298.640000000001 298.510000000001
+XXXOO..OO.X.
+OXXXOXXXXXXO
+.OXOOOOXXX.O
+.OOXOO.XXOOO
+XOXOOOXXOXOO
+XOXOOOXXXOOO
+XOOOOOOOOOOO
+XOOOOOXXOOOO
+XXXXOOOOXXOO
+X.XXXXXXXOOO
+..X.OOXXOOOO
+...XOOOOOO.O
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [j1] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+298.510000000001 298.620000000001
+XXXOO..OOOX.
+OXXXOXXXXOOO
+.OXOOOOXXO.O
+.OOXOO.XXOOO
+XOXOOOXXOXOO
+XOXOOOXXXOOO
+XOOOOOOOOOOO
+XOOOOOXXOOOO
+XXXXOOOOXXOO
+X.XXXXXXXOOO
+..X.OOXXOOOO
+...XOOOOOO.O
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [k12] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+O
+298.620000000001 298.480000000001
+XXXOO..OOOX.
+OXXXOXXXXOOO
+.OXOOOOXXO.O
+.OOXOO.XXOOO
+XOXOOOXXOXOO
+XOXOOOXXXOOO
+XOOOOOOOOOOO
+XOOOOOXXOOOO
+XXXXOOOOXXOO
+X.XXXXXXXOOO
+..X.OOXXOXOO
+...XXXXXXXXO
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [b12] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+298.480000000001 298.590000000001
+XXXOO..OOOX.
+OXXXOXXXXOOO
+.OXOOOOXXO.O
+.OOXOO.XXOOO
+XOXOOOXXOXOO
+XOXOOOXXXOOO
+XOOOOOOOOOOO
+XOOOOOXXOOOO
+XXXXOOOOXXOO
+X.XOXXXXXOOO
+..O.OOXXOXOO
+.O.XXXXXXXXO
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [k3] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+O
+298.590000000001 298.460000000001
+XXXOO..OOOX.
+OXXXOXXXXOXO
+.OXOOOOXXXXO
+.OOXOO.XXXXO
+XOXOOOXXXXXO
+XOXOOOXXXOXO
+XOOOOOOOOOXO
+XOOOOOXXOOXO
+XXXXOOOOXXXO
+X.XOXXXXXOXO
+..O.OOXXOXXO
+.O.XXXXXXXXO
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [b11] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+298.460000000001 298.570000000001
+XXXOO..OOOX.
+OXXXOXXXXOXO
+.OXOOOOXXXXO
+.OOXOO.XXXXO
+XOXOOOXXXXXO
+XOXOOOXXXOXO
+XOOOOOOOOOXO
+XOOOOOXXOOXO
+XXXOOOOOXXXO
+X.OOXXXXXOXO
+.OO.OOXXOXXO
+.O.XXXXXXXXO
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [a4] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+O
+298.570000000001 298.440000000001
+XXXOO..OOOX.
+OXXXOXXXXOXO
+.XXOOOOXXXXO
+XXXXOO.XXXXO
+XXXOOOXXXXXO
+XOXOOOXXXOXO
+XOOOOOOOOOXO
+XOOOOOXXOOXO
+XXXOOOOOXXXO
+X.OOXXXXXOXO
+.OO.OOXXOXXO
+.O.XXXXXXXXO
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [b10] in 0.01s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+298.440000000001 298.560000000001
+XXXOO..OOOX.
+OXXXOXXXXOXO
+.XXOOOOXXXXO
+XXXXOO.XXXXO
+XXXOOOXXXXXO
+XOXOOOXXXOXO
+XOOOOOOOOOXO
+XOOOOOXXOOXO
+XOOOOOOOXXXO
+XOOOXXXXXOXO
+.OO.OOXXOXXO
+.O.XXXXXXXXO
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [d11] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+O
+298.560000000001 298.420000000001
+XXXOO..OOOX.
+OXXXOXXXXOXO
+.XXOOOOXXXXO
+XXXXOO.XXXXO
+XXXXOOXXXXXO
+XOXXOOXXXOXO
+XOOXOOOOOOXO
+XOOXOOXXOOXO
+XXOXOOOOXXXO
+XOXXXXXXXOXO
+.OOXXXXXOXXO
+.O.XXXXXXXXO
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [g4] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+298.420000000001 298.540000000001
+XXXOO..OOOX.
+OXXXOXXXOOXO
+.XXOOOOOXXXO
+XXXXOOOOOOOO
+XXXXOOOOXXXO
+XOXXOOOXOOXO
+XOOXOOOOOOXO
+XOOXOOXXOOXO
+XXOXOOOOXXXO
+XOXXXXXXXOXO
+.OOXXXXXOXXO
+.O.XXXXXXXXO
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [a12] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+O
+298.540000000001 298.390000000001
+XXXOO..OOOX.
+OXXXOXXXOOXO
+.XXOOOOOXXXO
+XXXXOOOOOOOO
+XXXXOOOOXXXO
+XOXXOOOXOOXO
+XOOXOOOOOOXO
+XOOXOOXXOOXO
+XXOXOOOOXXXO
+XOXXXXXXXOXO
+.XOXXXXXOXXO
+XO.XXXXXXXXO
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [a3] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+298.390000000001 298.520000000001
+XXXOO..OOOX.
+OXXXOXXXOOXO
+OOOOOOOOXXXO
+XOXXOOOOOOOO
+XXOXOOOOXXXO
+XOXOOOOXOOXO
+XOOXOOOOOOXO
+XOOXOOXXOOXO
+XXOXOOOOXXXO
+XOXXXXXXXOXO
+.XOXXXXXOXXO
+XO.XXXXXXXXO
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [g1] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+O
+298.520000000001 298.370000000001
+XXXOO.XXXXX.
+OXXXOXXXOOXO
+OOOOOOOOXXXO
+XOXXOOOOOOOO
+XXOXOOOOXXXO
+XOXOOOOXOOXO
+XOOXOOOOOOXO
+XOOXOOXXOOXO
+XXOXOOOOXXXO
+XOXXXXXXXOXO
+.XOXXXXXOXXO
+XO.XXXXXXXXO
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [c12] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+298.370000000001 298.490000000001
+XXXOO.XXXXX.
+OXXXOXXXOOXO
+OOOOOOOOXXXO
+XOXXOOOOOOOO
+XXOXOOOOXXXO
+XOXOOOOXOOXO
+XOOXOOOOOOXO
+XOOXOOXXOOXO
+XXOXOOOOXXXO
+XOXXOXXXXOXO
+.XOOXXXXOXXO
+XOOOOOOOOOOO
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [f1] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+O
+298.490000000001 298.350000000001
+XXXXXXXXXXX.
+OXXXXXXXOOXO
+OOOXOOOOXXXO
+XOXXOOOOOOOO
+XXOXOOOOXXXO
+XOXOOOOXOOXO
+XOOXOOOOOOXO
+XOOXOOXXOOXO
+XXOXOOOOXXXO
+XOXXOXXXXOXO
+.XOOXXXXOXXO
+XOOOOOOOOOOO
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [a11] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+===== student (X) must pass... =====
+INPUT for random:
+O
+298.470000000001 298.350000000001
+XXXXXXXXXXX.
+OXXXXXXXOOXO
+OOOXOOOOXXXO
+OOXXOOOOOOOO
+OXOXOOOOXXXO
+OOXOOOOXOOXO
+OOOXOOOOOOXO
+OOOXOOXXOOXO
+OXOXOOOOXXXO
+OOXXOXXXXOXO
+OOOOXXXXOXXO
+XOOOOOOOOOOO
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [l1] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+##### GAME END. #####
+Pieces (including bonus) for random (O): 88, student (X): 57
+Final state of the game:
+XXXXXXXXXXXO
+OXXXXXXXOOOO
+OOOXOOOOXOXO
+OOXXOOOOOOOO
+OXOXOOOOXXXO
+OOXOOOOXOOXO
+OOOXOOOOOOXO
+OOOXOOXXOOXO
+OXOXOOOOXXXO
+OOXXOXXXXOXO
+OOOOXXXXOXXO
+XOOOOOOOOOOO
+##### GAME OVER: random wins by number of pieces #####
+########## ROUND 1 GAMESCORE AFTER GAME 1: random=1 and student=0 ##########
+#################### ROUND 1: random (X) vs student (O): game 2 ####################
+##### game start! #####
+INPUT for student:
+O
+300 300
+............
+............
+..XO........
+..OX........
+............
+............
+............
+............
+........XO..
+........OX..
+............
+............
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [k10] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+X
+300 299.97
+............
+............
+..XO........
+..OX........
+............
+............
+............
+............
+........XO..
+........OOO.
+............
+............
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [d2] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+299.97 299.98
+............
+...X........
+..XX........
+..OX........
+............
+............
+............
+............
+........XO..
+........OOO.
+............
+............
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [e2] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+X
+299.98 299.95
+............
+...XO.......
+..XO........
+..OX........
+............
+............
+............
+............
+........XO..
+........OOO.
+............
+............
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [b4] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+299.95 299.95
+............
+...XO.......
+..XO........
+.XXX........
+............
+............
+............
+............
+........XO..
+........OOO.
+............
+............
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [d5] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+X
+299.95 299.93
+............
+...XO.......
+..XO........
+.XXO........
+...O........
+............
+............
+............
+........XO..
+........OOO.
+............
+............
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [f2] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+299.93 299.92
+............
+...XXX......
+..XO........
+.XXO........
+...O........
+............
+............
+............
+........XO..
+........OOO.
+............
+............
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [b5] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+X
+299.92 299.91
+............
+...XXX......
+..XO........
+.XOO........
+.O.O........
+............
+............
+............
+........XO..
+........OOO.
+............
+............
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [a6] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+299.91 299.9
+............
+...XXX......
+..XX........
+.XXO........
+.X.O........
+X...........
+............
+............
+........XO..
+........OOO.
+............
+............
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [b3] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+X
+299.9 299.88
+............
+...XXX......
+.OXX........
+.XOO........
+.X.O........
+X...........
+............
+............
+........XO..
+........OOO.
+............
+............
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [c5] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+299.88 299.87
+............
+...XXX......
+.OXX........
+.XXO........
+.XXO........
+X...........
+............
+............
+........XO..
+........OOO.
+............
+............
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [b2] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+X
+299.87 299.85
+............
+.O.XXX......
+.OOX........
+.XXO........
+.XXO........
+X...........
+............
+............
+........XO..
+........OOO.
+............
+............
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [k9] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+299.85 299.85
+............
+.O.XXX......
+.OOX........
+.XXO........
+.XXO........
+X...........
+............
+............
+........XXX.
+........OOO.
+............
+............
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [e1] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+X
+299.85 299.83
+....O.......
+.O.OXX......
+.OOX........
+.XXO........
+.XXO........
+X...........
+............
+............
+........XXX.
+........OOO.
+............
+............
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [i11] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+299.83 299.83
+....O.......
+.O.OXX......
+.OOX........
+.XXO........
+.XXO........
+X...........
+............
+............
+........XXX.
+........XXO.
+........X...
+............
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [k8] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+X
+299.83 299.8
+....O.......
+.O.OXX......
+.OOX........
+.XXO........
+.XXO........
+X...........
+............
+..........O.
+........XXO.
+........XXO.
+........X...
+............
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [a3] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+299.8 299.81
+....O.......
+.O.OXX......
+XXXX........
+.XXO........
+.XXO........
+X...........
+............
+..........O.
+........XXO.
+........XXO.
+........X...
+............
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [g2] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+X
+299.81 299.78
+....O.......
+.O.OOOO.....
+XXXX........
+.XXO........
+.XXO........
+X...........
+............
+..........O.
+........XXO.
+........XXO.
+........X...
+............
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [l11] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+299.78 299.79
+....O.......
+.O.OOOO.....
+XXXX........
+.XXO........
+.XXO........
+X...........
+............
+..........O.
+........XXO.
+........XXX.
+........X..X
+............
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [a4] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+X
+299.79 299.75
+....O.......
+.O.OOOO.....
+XXXX........
+OOOO........
+.XXO........
+X...........
+............
+..........O.
+........XXO.
+........XXX.
+........X..X
+............
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [a1] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+299.75 299.77
+X...O.......
+.X.OOOO.....
+XXXX........
+OOOO........
+.XXO........
+X...........
+............
+..........O.
+........XXO.
+........XXX.
+........X..X
+............
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [a5] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+X
+299.77 299.72
+X...O.......
+.X.OOOO.....
+XXXX........
+OOOO........
+OOOO........
+X...........
+............
+..........O.
+........XXO.
+........XXX.
+........X..X
+............
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [b6] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+299.72 299.74
+X...O.......
+.X.OOOO.....
+XXXX........
+OXOO........
+OXOO........
+XX..........
+............
+..........O.
+........XXO.
+........XXX.
+........X..X
+............
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [k11] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+X
+299.74 299.69
+X...O.......
+.X.OOOO.....
+XXXX........
+OXOO........
+OXOO........
+XX..........
+............
+..........O.
+........XXO.
+........XXO.
+........X.OX
+............
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [e4] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+299.69 299.71
+X...O.......
+.X.OOOO.....
+XXXX........
+OXXXX.......
+OXOO........
+XX..........
+............
+..........O.
+........XXO.
+........XXO.
+........X.OX
+............
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [h8] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+X
+299.71 299.67
+X...O.......
+.X.OOOO.....
+XXXX........
+OXXXX.......
+OXOO........
+XX..........
+............
+.......O..O.
+........OXO.
+........XOO.
+........X.OX
+............
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [l9] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+299.67 299.68
+X...O.......
+.X.OOOO.....
+XXXX........
+OXXXX.......
+OXOO........
+XX..........
+............
+.......O..O.
+........OXXX
+........XOO.
+........X.OX
+............
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [a7] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+X
+299.68 299.64
+X...O.......
+.X.OOOO.....
+XXXX........
+OXXXX.......
+OXOO........
+OO..........
+O...........
+.......O..O.
+........OXXX
+........XOO.
+........X.OX
+............
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [b7] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+299.64 299.65
+X...O.......
+.X.OOOO.....
+XXXX........
+OXXXX.......
+OXOO........
+OX..........
+OX..........
+.......O..O.
+........OXXX
+........XOO.
+........X.OX
+............
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [h11] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+X
+299.65 299.62
+X...O.......
+.X.OOOO.....
+XXXX........
+OXXXX.......
+OXOO........
+OX..........
+OX..........
+.......O..O.
+........OOXX
+........OOO.
+.......OX.OX
+............
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [h9] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+299.62 299.63
+X...O.......
+.X.OOOO.....
+XXXX........
+OXXXX.......
+OXOO........
+OX..........
+OX..........
+.......O..O.
+.......XXXXX
+........OOO.
+.......OX.OX
+............
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [h12] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+X
+299.63 299.6
+X...O.......
+.X.OOOO.....
+XXXX........
+OXXXX.......
+OXOO........
+OX..........
+OX..........
+.......O..O.
+.......XXXXX
+........OOO.
+.......OO.OX
+.......O....
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [e6] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+299.6 299.6
+X...O.......
+.X.OOOO.....
+XXXX........
+OXXXX.......
+OXOX........
+OX..X.......
+OX..........
+.......O..O.
+.......XXXXX
+........OOO.
+.......OO.OX
+.......O....
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [c2] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+X
+299.6 299.58
+X...O.......
+.XOOOOO.....
+XOOX........
+OXOXX.......
+OXOX........
+OX..X.......
+OX..........
+.......O..O.
+.......XXXXX
+........OOO.
+.......OO.OX
+.......O....
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [d1] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+299.58 299.57
+X..XO.......
+.XOXOOO.....
+XOOX........
+OXOXX.......
+OXOX........
+OX..X.......
+OX..........
+.......O..O.
+.......XXXXX
+........OOO.
+.......OO.OX
+.......O....
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [b1] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+X
+299.57 299.56
+XO.XO.......
+.OOXOOO.....
+XOOX........
+OXOXX.......
+OXOX........
+OX..X.......
+OX..........
+.......O..O.
+.......XXXXX
+........OOO.
+.......OO.OX
+.......O....
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [a2] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+299.56 299.54
+XO.XO.......
+XXXXOOO.....
+XXOX........
+OXXXX.......
+OXOX........
+OX..X.......
+OX..........
+.......O..O.
+.......XXXXX
+........OOO.
+.......OO.OX
+.......O....
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [b8] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+X
+299.54 299.53
+XO.XO.......
+XOXXOOO.....
+XOOX........
+OOXXX.......
+OOOX........
+OO..X.......
+OO..........
+.O.....O..O.
+.......XXXXX
+........OOO.
+.......OO.OX
+.......O....
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [k7] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+299.53 299.51
+XO.XO.......
+XOXXOOO.....
+XOOX........
+OOXXX.......
+OOOX........
+OO..X.......
+OO........X.
+.O.....O..X.
+.......XXXXX
+........OOO.
+.......OO.OX
+.......O....
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [f7] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+X
+299.51 299.5
+XO.XO.......
+XOXXOOO.....
+XOOX........
+OOOXX.......
+OOOO........
+OO..O.......
+OO...O....X.
+.O.....O..X.
+.......XXXXX
+........OOO.
+.......OO.OX
+.......O....
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [g12] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+299.5 299.49
+XO.XO.......
+XOXXOOO.....
+XOOX........
+OOOXX.......
+OOOO........
+OO..O.......
+OO...O....X.
+.O.....O..X.
+.......XXXXX
+........XOO.
+.......XO.OX
+......XO....
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [f3] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+X
+299.49 299.47
+XO.XO.......
+XOXXOOO.....
+XOOX.O......
+OOOXO.......
+OOOO........
+OO..O.......
+OO...O....X.
+.O.....O..X.
+.......XXXXX
+........XOO.
+.......XO.OX
+......XO....
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [f5] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+299.47 299.47
+XO.XO.......
+XOXXOOO.....
+XOOX.O......
+OOOXX.......
+OOOO.X......
+OO..O.......
+OO...O....X.
+.O.....O..X.
+.......XXXXX
+........XOO.
+.......XO.OX
+......XO....
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [g11] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+X
+299.47 299.450000000001
+XO.XO.......
+XOXXOOO.....
+XOOX.O......
+OOOXX.......
+OOOO.X......
+OO..O.......
+OO...O....X.
+.O.....O..X.
+.......XXXXX
+........XOO.
+......OOO.OX
+......XO....
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [d7] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+299.450000000001 299.450000000001
+XO.XO.......
+XOXXOOO.....
+XOOX.O......
+OOOXX.......
+OOOO.X......
+OO..X.......
+OO.X.O....X.
+.O.....O..X.
+.......XXXXX
+........XOO.
+......OOO.OX
+......XO....
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [f12] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+X
+299.450000000001 299.430000000001
+XO.XO.......
+XOXXOOO.....
+XOOX.O......
+OOOXX.......
+OOOO.X......
+OO..X.......
+OO.X.O....X.
+.O.....O..X.
+.......XXXXX
+........XOO.
+......OOO.OX
+.....OOO....
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [f1] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+299.430000000001 299.430000000001
+XO.XXX......
+XOXXXOO.....
+XOOX.O......
+OOOXX.......
+OOOO.X......
+OO..X.......
+OO.X.O....X.
+.O.....O..X.
+.......XXXXX
+........XOO.
+......OOO.OX
+.....OOO....
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [j8] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+X
+299.430000000001 299.410000000001
+XO.XXX......
+XOXXXOO.....
+XOOX.O......
+OOOXX.......
+OOOO.X......
+OO..X.......
+OO.X.O....X.
+.O.....O.OX.
+.......XXOXX
+........XOO.
+......OOO.OX
+.....OOO....
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [c1] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+299.410000000001 299.410000000001
+XXXXXX......
+XXXXXOO.....
+XOOX.O......
+OOOXX.......
+OOOO.X......
+OO..X.......
+OO.X.O....X.
+.O.....O.OX.
+.......XXOXX
+........XOO.
+......OOO.OX
+.....OOO....
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [f4] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+X
+299.410000000001 299.380000000001
+XXXXXX......
+XXXXXOO.....
+XOOX.O......
+OOOOOO......
+OOOO.X......
+OO..X.......
+OO.X.O....X.
+.O.....O.OX.
+.......XXOXX
+........XOO.
+......OOO.OX
+.....OOO....
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [a8] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+299.380000000001 299.390000000001
+XXXXXX......
+XXXXXOO.....
+XOOX.O......
+XOOOOO......
+XOOO.X......
+XO..X.......
+XO.X.O....X.
+XO.....O.OX.
+.......XXOXX
+........XOO.
+......OOO.OX
+.....OOO....
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [l7] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+X
+299.390000000001 299.350000000001
+XXXXXX......
+XXXXXOO.....
+XOOX.O......
+XOOOOO......
+XOOO.X......
+XO..X.......
+XO.X.O....XO
+XO.....O.OO.
+.......XXOXX
+........XOO.
+......OOO.OX
+.....OOO....
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [h2] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+299.350000000001 299.370000000001
+XXXXXX......
+XXXXXXXX....
+XOOX.O......
+XOOOOO......
+XOOO.X......
+XO..X.......
+XO.X.O....XO
+XO.....O.OO.
+.......XXOXX
+........XOO.
+......OOO.OX
+.....OOO....
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [e3] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+X
+299.370000000001 299.330000000001
+XXXXXX......
+XXXXXXXX....
+XOOOOO......
+XOOOOO......
+XOOO.X......
+XO..X.......
+XO.X.O....XO
+XO.....O.OO.
+.......XXOXX
+........XOO.
+......OOO.OX
+.....OOO....
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [g3] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+299.330000000001 299.350000000001
+XXXXXX......
+XXXXXXXX....
+XXXXXXX.....
+XOOOOO......
+XOOO.X......
+XO..X.......
+XO.X.O....XO
+XO.....O.OO.
+.......XXOXX
+........XOO.
+......OOO.OX
+.....OOO....
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [j7] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+X
+299.350000000001 299.300000000001
+XXXXXX......
+XXXXXXXX....
+XXXXXXX.....
+XOOOOO......
+XOOO.X......
+XO..X.......
+XO.X.O...OOO
+XO.....O.OO.
+.......XXOXX
+........XOO.
+......OOO.OX
+.....OOO....
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [g4] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+299.300000000001 299.320000000001
+XXXXXX......
+XXXXXXXX....
+XXXXXXX.....
+XXXXXXX.....
+XOOO.X......
+XO..X.......
+XO.X.O...OOO
+XO.....O.OO.
+.......XXOXX
+........XOO.
+......OOO.OX
+.....OOO....
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [l10] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+X
+299.320000000001 299.270000000001
+XXXXXX......
+XXXXXXXX....
+XXXXXXX.....
+XXXXXXX.....
+XOOO.X......
+XO..X.......
+XO.X.O...OOO
+XO.....O.OO.
+.......XXOOX
+........XOOO
+......OOO.OX
+.....OOO....
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [d6] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+299.270000000001 299.300000000001
+XXXXXX......
+XXXXXXXX....
+XXXXXXX.....
+XXXXXXX.....
+XOXX.X......
+XO.XX.......
+XO.X.O...OOO
+XO.....O.OO.
+.......XXOOX
+........XOOO
+......OOO.OX
+.....OOO....
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [e5] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+X
+299.300000000001 299.250000000001
+XXXXXX......
+XXXXXXXX....
+XXXXXXX.....
+XXXXXXX.....
+XOOOOX......
+XO.XX.......
+XO.X.O...OOO
+XO.....O.OO.
+.......XXOOX
+........XOOO
+......OOO.OX
+.....OOO....
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [i12] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+299.250000000001 299.280000000001
+XXXXXX......
+XXXXXXXX....
+XXXXXXX.....
+XXXXXXX.....
+XOOOOX......
+XO.XX.......
+XO.X.O...OOO
+XO.....O.OO.
+.......XXOOX
+........XOOO
+......OOX.OX
+.....OOOX...
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [g9] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+X
+299.280000000001 299.230000000001
+XXXXXX......
+XXXXXXXX....
+XXXXXXX.....
+XXXXXXX.....
+XOOOOX......
+XO.XX.......
+XO.X.O...OOO
+XO.....O.OO.
+......OOOOOX
+........XOOO
+......OOX.OX
+.....OOOX...
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [c6] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+299.230000000001 299.260000000001
+XXXXXX......
+XXXXXXXX....
+XXXXXXX.....
+XXXXXXX.....
+XXXXOX......
+XXXXX.......
+XX.X.O...OOO
+XO.....O.OO.
+......OOOOOX
+........XOOO
+......OOX.OX
+.....OOOX...
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [h10] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+X
+299.260000000001 299.210000000001
+XXXXXX......
+XXXXXXXX....
+XXXXXXX.....
+XXXXXXX.....
+XXXXOX......
+XXXXX.......
+XX.X.O...OOO
+XO.....O.OO.
+......OOOOOX
+.......OOOOO
+......OOX.OX
+.....OOOX...
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [f6] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+299.210000000001 299.240000000001
+XXXXXX......
+XXXXXXXX....
+XXXXXXX.....
+XXXXXXX.....
+XXXXXX......
+XXXXXX......
+XX.X.O...OOO
+XO.....O.OO.
+......OOOOOX
+.......OOOOO
+......OOX.OX
+.....OOOX...
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [l8] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+X
+299.240000000001 299.180000000001
+XXXXXX......
+XXXXXXXX....
+XXXXXXX.....
+XXXXXXX.....
+XXXXXX......
+XXXXXX......
+XX.X.O...OOO
+XO.....O.OOO
+......OOOOOO
+.......OOOOO
+......OOX.OX
+.....OOOX...
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [g10] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+299.180000000001 299.220000000001
+XXXXXX......
+XXXXXXXX....
+XXXXXXX.....
+XXXXXXX.....
+XXXXXX......
+XXXXXX......
+XX.X.O...OOO
+XO.....O.OOO
+......OOOOOO
+......XOOOOO
+......OXX.OX
+.....OOOX...
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [j12] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+X
+299.220000000001 299.160000000001
+XXXXXX......
+XXXXXXXX....
+XXXXXXX.....
+XXXXXXX.....
+XXXXXX......
+XXXXXX......
+XX.X.O...OOO
+XO.....O.OOO
+......OOOOOO
+......XOOOOO
+......OXO.OX
+.....OOOOO..
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [c8] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+299.160000000001 299.200000000001
+XXXXXX......
+XXXXXXXX....
+XXXXXXX.....
+XXXXXXX.....
+XXXXXX......
+XXXXXX......
+XX.X.O...OOO
+XXX....O.OOO
+......OOOOOO
+......XOOOOO
+......OXO.OX
+.....OOOOO..
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [f11] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+X
+299.200000000001 299.130000000001
+XXXXXX......
+XXXXXXXX....
+XXXXXXX.....
+XXXXXXX.....
+XXXXXX......
+XXXXXX......
+XX.X.O...OOO
+XXX....O.OOO
+......OOOOOO
+......OOOOOO
+.....OOXO.OX
+.....OOOOO..
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [f8] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+299.130000000001 299.170000000001
+XXXXXX......
+XXXXXXXX....
+XXXXXXX.....
+XXXXXXX.....
+XXXXXX......
+XXXXXX......
+XX.X.X...OOO
+XXX..X.O.OOO
+......OOOOOO
+......OOOOOO
+.....OOXO.OX
+.....OOOOO..
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [e7] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+X
+299.170000000001 299.100000000001
+XXXXXX......
+XXXXXXXX....
+XXXXXXX.....
+XXXXXXX.....
+XXXXXX......
+XXXXXX......
+XX.XOX...OOO
+XXX..O.O.OOO
+......OOOOOO
+......OOOOOO
+.....OOXO.OX
+.....OOOOO..
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [f9] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+299.100000000001 299.150000000001
+XXXXXX......
+XXXXXXXX....
+XXXXXXX.....
+XXXXXXX.....
+XXXXXX......
+XXXXXX......
+XX.XOX...OOO
+XXX..X.O.OOO
+.....XOOOOOO
+......XOOOOO
+.....OOXO.OX
+.....OOOOO..
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [e8] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+X
+299.150000000001 299.070000000001
+XXXXXX......
+XXXXXXXX....
+XXXXXXX.....
+XXXXXXX.....
+XXXXXX......
+XXXXXX......
+XX.XOX...OOO
+XXX.OX.O.OOO
+.....OOOOOOO
+......OOOOOO
+.....OOOO.OX
+.....OOOOO..
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [j11] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+299.070000000001 299.130000000001
+XXXXXX......
+XXXXXXXX....
+XXXXXXX.....
+XXXXXXX.....
+XXXXXX......
+XXXXXX......
+XX.XOX...OOO
+XXX.OX.O.OOO
+.....OOOOOOO
+......OOOOOO
+.....OOOOXXX
+.....OOOOO..
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [g8] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+X
+299.130000000001 299.050000000001
+XXXXXX......
+XXXXXXXX....
+XXXXXXX.....
+XXXXXXX.....
+XXXXXX......
+XXXXXX......
+XX.XOX...OOO
+XXX.OOOO.OOO
+.....OOOOOOO
+......OOOOOO
+.....OOOOXXX
+.....OOOOO..
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [l6] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+299.050000000001 299.100000000001
+XXXXXX......
+XXXXXXXX....
+XXXXXXX.....
+XXXXXXX.....
+XXXXXX......
+XXXXXX.....X
+XX.XOX...OOX
+XXX.OOOO.OOX
+.....OOOOOOX
+......OOOOOX
+.....OOOOXXX
+.....OOOOO..
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [k12] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+X
+299.100000000001 299.030000000001
+XXXXXX......
+XXXXXXXX....
+XXXXXXX.....
+XXXXXXX.....
+XXXXXX......
+XXXXXX.....X
+XX.XOX...OOX
+XXX.OOOO.OOX
+.....OOOOOOX
+......OOOOOX
+.....OOOOOOX
+.....OOOOOO.
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [i8] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+299.030000000001 299.070000000001
+XXXXXX......
+XXXXXXXX....
+XXXXXXX.....
+XXXXXXX.....
+XXXXXX......
+XXXXXX.....X
+XX.XOX...OOX
+XXX.OOOOXXXX
+.....OOOOXOX
+......OOOOXX
+.....OOOOOOX
+.....OOOOOO.
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [g5] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+X
+299.070000000001 299.010000000001
+XXXXXX......
+XXXXXXXX....
+XXXXXXX.....
+XXXXXXX.....
+XXXXXXO.....
+XXXXXO.....X
+XX.XOX...OOX
+XXX.OOOOXXXX
+.....OOOOXOX
+......OOOOXX
+.....OOOOOOX
+.....OOOOOO.
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [e12] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+299.010000000001 299.040000000001
+XXXXXX......
+XXXXXXXX....
+XXXXXXX.....
+XXXXXXX.....
+XXXXXXO.....
+XXXXXO.....X
+XX.XOX...OOX
+XXX.OOOOXXXX
+.....OOXOXOX
+......XOOOXX
+.....XOOOOOX
+....XOOOOOO.
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [e10] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+X
+299.040000000001 298.990000000001
+XXXXXX......
+XXXXXXXX....
+XXXXXXX.....
+XXXXXXX.....
+XXXXXXO.....
+XXXXXO.....X
+XX.XOX...OOX
+XXX.OOOOXXXX
+.....OOXOXOX
+....O.XOOOXX
+.....OOOOOOX
+....XOOOOOO.
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [e9] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+298.990000000001 299.020000000001
+XXXXXX......
+XXXXXXXX....
+XXXXXXX.....
+XXXXXXX.....
+XXXXXXO.....
+XXXXXO.....X
+XX.XXX...OOX
+XXX.XOOOXXXX
+....XXXXOXOX
+....O.XOOOXX
+.....OOOOOOX
+....XOOOOOO.
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [d10] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+X
+299.020000000001 298.970000000001
+XXXXXX......
+XXXXXXXX....
+XXXXXXX.....
+XXXXXXX.....
+XXXXXXO.....
+XXXXXO.....X
+XX.XXX...OOX
+XXX.XOOOXXXX
+....OXXXOXOX
+...OO.XOOOXX
+.....OOOOOOX
+....XOOOOOO.
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [i6] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+298.970000000001 298.990000000001
+XXXXXX......
+XXXXXXXX....
+XXXXXXX.....
+XXXXXXX.....
+XXXXXXO.....
+XXXXXO..X..X
+XX.XXX...XOX
+XXX.XOOOXXXX
+....OXXXOXOX
+...OO.XOOOXX
+.....OOOOOOX
+....XOOOOOO.
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [f10] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+X
+298.990000000001 298.940000000001
+XXXXXX......
+XXXXXXXX....
+XXXXXXX.....
+XXXXXXX.....
+XXXXXXO.....
+XXXXXO..X..X
+XX.XXX...XOX
+XXX.XOOOXXXX
+....OOOXOXOX
+...OOOOOOOXX
+.....OOOOOOX
+....XOOOOOO.
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [g7] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+298.940000000001 298.970000000001
+XXXXXX......
+XXXXXXXX....
+XXXXXXX.....
+XXXXXXX.....
+XXXXXXO.....
+XXXXXX..X..X
+XX.XXXX..XOX
+XXX.XOOOXXXX
+....OOOXOXOX
+...OOOOOOOXX
+.....OOOOOOX
+....XOOOOOO.
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [d12] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+X
+298.970000000001 298.920000000001
+XXXXXX......
+XXXXXXXX....
+XXXXXXX.....
+XXXXXXX.....
+XXXXXXO.....
+XXXXXX..X..X
+XX.XXXX..XOX
+XXX.XOOOXXXX
+....OOOXOXOX
+...OOOOOOOXX
+.....OOOOOOX
+...OOOOOOOO.
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [g6] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+298.920000000001 298.950000000001
+XXXXXX......
+XXXXXXXX....
+XXXXXXX.....
+XXXXXXX.....
+XXXXXXX.....
+XXXXXXX.X..X
+XX.XXXX..XOX
+XXX.XOOOXXXX
+....OOOXOXOX
+...OOOOOOOXX
+.....OOOOOOX
+...OOOOOOOO.
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [h6] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+X
+298.950000000001 298.900000000001
+XXXXXX......
+XXXXXXXX....
+XXXXXXX.....
+XXXXXXX.....
+XXXXXXX.....
+XXXXXXXOX..X
+XX.XXXO..XOX
+XXX.XOOOXXXX
+....OOOXOXOX
+...OOOOOOOXX
+.....OOOOOOX
+...OOOOOOOO.
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [k6] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+298.900000000001 298.920000000001
+XXXXXX......
+XXXXXXXX....
+XXXXXXX.....
+XXXXXXX.....
+XXXXXXX.....
+XXXXXXXOX.XX
+XX.XXXO..XXX
+XXX.XOOOXXXX
+....OOOXOXOX
+...OOOOOOOXX
+.....OOOOOOX
+...OOOOOOOO.
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [g1] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+X
+298.920000000001 298.870000000001
+XXXXXXO.....
+XXXXXXOX....
+XXXXXXO.....
+XXXXXXO.....
+XXXXXXO.....
+XXXXXXOOX.XX
+XX.XXXO..XXX
+XXX.XOOOXXXX
+....OOOXOXOX
+...OOOOOOOXX
+.....OOOOOOX
+...OOOOOOOO.
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [h3] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+298.870000000001 298.900000000001
+XXXXXXO.....
+XXXXXXXX....
+XXXXXXXX....
+XXXXXXX.....
+XXXXXXO.....
+XXXXXXOOX.XX
+XX.XXXO..XXX
+XXX.XOOOXXXX
+....OOOXOXOX
+...OOOOOOOXX
+.....OOOOOOX
+...OOOOOOOO.
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [i3] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+X
+298.900000000001 298.840000000001
+XXXXXXO.....
+XXXXXXXO....
+XXXXXXXXO...
+XXXXXXX.....
+XXXXXXO.....
+XXXXXXOOX.XX
+XX.XXXO..XXX
+XXX.XOOOXXXX
+....OOOXOXOX
+...OOOOOOOXX
+.....OOOOOOX
+...OOOOOOOO.
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [i1] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+298.840000000001 298.880000000001
+XXXXXXO.X...
+XXXXXXXX....
+XXXXXXXXO...
+XXXXXXX.....
+XXXXXXO.....
+XXXXXXOOX.XX
+XX.XXXO..XXX
+XXX.XOOOXXXX
+....OOOXOXOX
+...OOOOOOOXX
+.....OOOOOOX
+...OOOOOOOO.
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [d9] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+X
+298.880000000001 298.810000000001
+XXXXXXO.X...
+XXXXXXXX....
+XXXXXXXXO...
+XXXXXXX.....
+XXXXXXO.....
+XXXXXXOOX.XX
+XX.XXOO..XXX
+XXX.OOOOXXXX
+...OOOOXOXOX
+...OOOOOOOXX
+.....OOOOOOX
+...OOOOOOOO.
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [e11] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+298.810000000001 298.850000000001
+XXXXXXO.X...
+XXXXXXXX....
+XXXXXXXXO...
+XXXXXXX.....
+XXXXXXO.....
+XXXXXXOOX.XX
+XX.XXOO..XXX
+XXX.XOOOXXXX
+...OXOOXOXOX
+...OXOOOOOXX
+....XXXXXXXX
+...OOOOOOOO.
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [i7] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+X
+298.850000000001 298.780000000001
+XXXXXXO.X...
+XXXXXXXX....
+XXXXXXXXO...
+XXXXXXX.....
+XXXXXXO.....
+XXXXXXOOX.XX
+XX.XXOO.OXXX
+XXX.XOOOOOXX
+...OXOOXOXOX
+...OXOOOOOXX
+....XXXXXXXX
+...OOOOOOOO.
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [j4] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+298.780000000001 298.820000000001
+XXXXXXO.X...
+XXXXXXXX....
+XXXXXXXXX...
+XXXXXXX..X..
+XXXXXXO.....
+XXXXXXOOX.XX
+XX.XXOO.OXXX
+XXX.XOOOOOXX
+...OXOOXOXOX
+...OXOOOOOXX
+....XXXXXXXX
+...OOOOOOOO.
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [c7] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+X
+298.820000000001 298.760000000001
+XXXXXXO.X...
+XXXXXXXX....
+XXXXXXXXX...
+XXXXXXX..X..
+XXXXXXO.....
+XXXXXXOOX.XX
+XXOOOOO.OXXX
+XXX.XOOOOOXX
+...OXOOXOXOX
+...OXOOOOOXX
+....XXXXXXXX
+...OOOOOOOO.
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [i5] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+298.760000000001 298.790000000001
+XXXXXXO.X...
+XXXXXXXX....
+XXXXXXXXX...
+XXXXXXX..X..
+XXXXXXO.X...
+XXXXXXOXX.XX
+XXOOOOX.OXXX
+XXX.XXOOOOXX
+...OXOOXOXOX
+...OXOOOOOXX
+....XXXXXXXX
+...OOOOOOOO.
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [l5] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+X
+298.790000000001 298.740000000001
+XXXXXXO.X...
+XXXXXXXX....
+XXXXXXXXX...
+XXXXXXX..X..
+XXXXXXO.X..O
+XXXXXXOXX.OX
+XXOOOOX.OOXX
+XXX.XXOOOOXX
+...OXOOXOXOX
+...OXOOOOOXX
+....XXXXXXXX
+...OOOOOOOO.
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [l4] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+298.740000000001 298.760000000001
+XXXXXXO.X...
+XXXXXXXX....
+XXXXXXXXX...
+XXXXXXX..X.X
+XXXXXXO.X..X
+XXXXXXOXX.OX
+XXOOOOX.OOXX
+XXX.XXOOOOXX
+...OXOOXOXOX
+...OXOOOOOXX
+....XXXXXXXX
+...OOOOOOOO.
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [a9] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+X
+298.760000000001 298.720000000001
+XXXXXXO.X...
+XXXXXXXX....
+XXXXXXXXX...
+XXXXXXX..X.X
+XXXXXXO.X..X
+XXXXXXOXX.OX
+XXOOOOX.OOXX
+XOX.XXOOOOXX
+O..OXOOXOXOX
+...OXOOOOOXX
+....XXXXXXXX
+...OOOOOOOO.
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [c10] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+298.720000000001 298.740000000001
+XXXXXXO.X...
+XXXXXXXX....
+XXXXXXXXX...
+XXXXXXX..X.X
+XXXXXXO.X..X
+XXXXXXOXX.OX
+XXOOOOX.OOXX
+XOX.XXOOOOXX
+O..XXOOXOXOX
+..XXXOOOOOXX
+....XXXXXXXX
+...OOOOOOOO.
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [b11] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+X
+298.740000000001 298.700000000001
+XXXXXXO.X...
+XXXXXXXX....
+XXXXXXXXX...
+XXXXXXX..X.X
+XXXXXXO.X..X
+XXXXXXOXX.OX
+XXOOOOX.OOXX
+XOX.OXOOOOXX
+O..OXOOXOXOX
+..OXXOOOOOXX
+.O..XXXXXXXX
+...OOOOOOOO.
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [d8] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+298.700000000001 298.710000000001
+XXXXXXO.X...
+XXXXXXXX....
+XXXXXXXXX...
+XXXXXXX..X.X
+XXXXXXO.X..X
+XXXXXXOXX.OX
+XXXXXOX.OOXX
+XOXXXXOOOOXX
+O..XXOOXOXOX
+..OXXOOOOOXX
+.O..XXXXXXXX
+...OOOOOOOO.
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [l12] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+X
+298.710000000001 298.680000000001
+XXXXXXO.X...
+XXXXXXXX....
+XXXXXXXXX...
+XXXXXXX..X.X
+XXXXXXO.X..X
+XXXXXXOXX.OX
+XXXXXOX.OOXX
+XOXXXXOOOOXX
+O..XXOOXOXOX
+..OXXOOOOOXX
+.O..XXXXXXOX
+...OOOOOOOOO
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [b9] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+298.680000000001 298.680000000001
+XXXXXXO.X...
+XXXXXXXX....
+XXXXXXXXX...
+XXXXXXX..X.X
+XXXXXXO.X..X
+XXXXXXOXX.OX
+XXXXXOX.OOXX
+XXXXXXOOOOXX
+OX.XXOOXOXOX
+..OXXOOOOOXX
+.O..XXXXXXOX
+...OOOOOOOOO
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [h5] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+X
+298.680000000001 298.650000000001
+XXXXXXO.X...
+XXXXXXXX....
+XXXXXXXXX...
+XXXXXXX..X.X
+XXXXXXOOX..X
+XXXXXXOXO.OX
+XXXXXOX.OOXX
+XXXXXXOOOOXX
+OX.XXOOXOXOX
+..OXXOOOOOXX
+.O..XXXXXXOX
+...OOOOOOOOO
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [i4] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+298.650000000001 298.660000000001
+XXXXXXO.X...
+XXXXXXXX....
+XXXXXXXXX...
+XXXXXXX.XX.X
+XXXXXXOXX..X
+XXXXXXXXO.OX
+XXXXXXX.OOXX
+XXXXXXOOOOXX
+OX.XXOOXOXOX
+..OXXOOOOOXX
+.O..XXXXXXOX
+...OOOOOOOOO
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [i2] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+X
+298.660000000001 298.630000000001
+XXXXXXO.X...
+XXXXXXXXO...
+XXXXXXXXO...
+XXXXXXX.OX.X
+XXXXXXOXO..X
+XXXXXXXXO.OX
+XXXXXXX.OOXX
+XXXXXXOOOOXX
+OX.XXOOXOXOX
+..OXXOOOOOXX
+.O..XXXXXXOX
+...OOOOOOOOO
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [h4] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+298.630000000001 298.630000000001
+XXXXXXO.X...
+XXXXXXXXO...
+XXXXXXXXO...
+XXXXXXXXXX.X
+XXXXXXXXO..X
+XXXXXXXXO.OX
+XXXXXXX.OOXX
+XXXXXXOOOOXX
+OX.XXOOXOXOX
+..OXXOOOOOXX
+.O..XXXXXXOX
+...OOOOOOOOO
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [j3] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+X
+298.630000000001 298.610000000001
+XXXXXXO.X...
+XXXXXXXXO...
+XXXXXXXXOO..
+XXXXXXXXOX.X
+XXXXXXXOO..X
+XXXXXXOXO.OX
+XXXXXOX.OOXX
+XXXXOXOOOOXX
+OX.OXOOXOXOX
+..OXXOOOOOXX
+.O..XXXXXXOX
+...OOOOOOOOO
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [c9] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+298.610000000001 298.600000000001
+XXXXXXO.X...
+XXXXXXXXO...
+XXXXXXXXOO..
+XXXXXXXXOX.X
+XXXXXXXOO..X
+XXXXXXOXO.OX
+XXXXXOX.OOXX
+XXXXOXOOOOXX
+OXXXXOOXOXOX
+..OXXOOOOOXX
+.O..XXXXXXOX
+...OOOOOOOOO
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [k4] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+X
+298.600000000001 298.580000000001
+XXXXXXO.X...
+XXXXXXXXO...
+XXXXXXXXOO..
+XXXXXXXXOOOX
+XXXXXXXOO..X
+XXXXXXOXO.OX
+XXXXXOX.OOXX
+XXXXOXOOOOXX
+OXXXXOOXOXOX
+..OXXOOOOOXX
+.O..XXXXXXOX
+...OOOOOOOOO
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [a12] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+298.580000000001 298.580000000001
+XXXXXXO.X...
+XXXXXXXXO...
+XXXXXXXXOO..
+XXXXXXXXOOOX
+XXXXXXXOO..X
+XXXXXXOXO.OX
+XXXXXOX.OOXX
+XXXXOXOOOOXX
+OXXXXOOXOXOX
+..XXXOOOOOXX
+.X..XXXXXXOX
+X..OOOOOOOOO
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [b10] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+X
+298.580000000001 298.550000000001
+XXXXXXO.X...
+XXXXXXXXO...
+XXXXXXXXOO..
+XXXXXXXOOOOX
+XXXXXXOOO..X
+XXXXXOOXO.OX
+XXXXOOX.OOXX
+XXXOOXOOOOXX
+OXOXXOOXOXOX
+.OOOOOOOOOXX
+.X..XXXXXXOX
+X..OOOOOOOOO
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [k5] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+298.550000000001 298.560000000001
+XXXXXXO.X...
+XXXXXXXXO...
+XXXXXXXXXO..
+XXXXXXXOOXOX
+XXXXXXOOO.XX
+XXXXXOOXO.XX
+XXXXOOX.OOXX
+XXXOOXOOOOXX
+OXOXXOOXOXOX
+.OOOOOOOOOXX
+.X..XXXXXXOX
+X..OOOOOOOOO
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [j5] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+X
+298.560000000001 298.530000000001
+XXXXXXO.X...
+XXXXXXXXO...
+XXXXXXXXXO..
+XXXXXXXOOOOX
+XXXXXXOOOOXX
+XXXXXOOXO.XX
+XXXXOOX.OOXX
+XXXOOXOOOOXX
+OXOXXOOXOXOX
+.OOOOOOOOOXX
+.X..XXXXXXOX
+X..OOOOOOOOO
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [d11] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+298.530000000001 298.530000000001
+XXXXXXO.X...
+XXXXXXXXO...
+XXXXXXXXXO..
+XXXXXXXOOOOX
+XXXXXXOOOOXX
+XXXXXOOXO.XX
+XXXXOOX.OOXX
+XXXOOXOOOOXX
+OXOXXOOXOXOX
+.OXXOOOOOOXX
+.X.XXXXXXXOX
+X..OOOOOOOOO
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [h1] in 0.01s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+X
+298.530000000001 298.520000000001
+XXXXXXOOX...
+XXXXXXXOO...
+XXXXXXXOXO..
+XXXXXXXOOOOX
+XXXXXXOOOOXX
+XXXXXOOXO.XX
+XXXXOOX.OOXX
+XXXOOXOOOOXX
+OXOXXOOXOXOX
+.OXXOOOOOOXX
+.X.XXXXXXXOX
+X..OOOOOOOOO
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [h7] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+298.520000000001 298.500000000001
+XXXXXXOOX...
+XXXXXXXOO...
+XXXXXXXOXO..
+XXXXXXXOOOOX
+XXXXXXOOOOXX
+XXXXXOXXO.XX
+XXXXOOXXXXXX
+XXXOOXXXXOXX
+OXOXXXOXOXOX
+.OXXXOOOOOXX
+.X.XXXXXXXOX
+X..OOOOOOOOO
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [j2] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+X
+298.500000000001 298.500000000001
+XXXXXXOOX...
+XXXXXXXOOO..
+XXXXXXXOOO..
+XXXXXXXOOOOX
+XXXXXXOOOOXX
+XXXXXOXXO.XX
+XXXXOOXXXXXX
+XXXOOXXXXOXX
+OXOXXXOXOXOX
+.OXXXOOOOOXX
+.X.XXXXXXXOX
+X..OOOOOOOOO
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [l3] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+298.500000000001 298.470000000001
+XXXXXXOOX...
+XXXXXXXOOO..
+XXXXXXXOOO.X
+XXXXXXXOOOXX
+XXXXXXOOOXXX
+XXXXXOXXX.XX
+XXXXOOXXXXXX
+XXXOOXXXXOXX
+OXOXXXOXOXOX
+.OXXXOOOOOXX
+.X.XXXXXXXOX
+X..OOOOOOOOO
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [j6] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+X
+298.470000000001 298.470000000001
+XXXXXXOOX...
+XXXXXXXOOO..
+XXXXXXXOOO.X
+XXXXXXXOOOXX
+XXXXXXOOOOXX
+XXXXXOOOOOXX
+XXXXOOXXOOXX
+XXXOOXXOXOXX
+OXOXXXOXOXOX
+.OXXXOOOOOXX
+.X.XXXXXXXOX
+X..OOOOOOOOO
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [k2] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+298.470000000001 298.440000000001
+XXXXXXOOX...
+XXXXXXXXXXX.
+XXXXXXXOOX.X
+XXXXXXXOXOXX
+XXXXXXOXOOXX
+XXXXXOXOOOXX
+XXXXOXXXOOXX
+XXXOXXXOXOXX
+OXOXXXOXOXOX
+.OXXXOOOOOXX
+.X.XXXXXXXOX
+X..OOOOOOOOO
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [b12] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+X
+298.440000000001 298.450000000001
+XXXXXXOOX...
+XXXXXXXXXXX.
+XXXXXXXOOX.X
+XXXXXXXOXOXX
+XXXXXXOXOOXX
+XXXXXOXOOOXX
+XXXXOXXXOOXX
+XXXOXXXOXOXX
+OXOXXXOXOXOX
+.OXXXOOOOOXX
+.O.XXXXXXXOX
+XO.OOOOOOOOO
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [c12] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+298.450000000001 298.420000000001
+XXXXXXOOX...
+XXXXXXXXXXX.
+XXXXXXXOOX.X
+XXXXXXXOXOXX
+XXXXXXOXOOXX
+XXXXXOXOOOXX
+XXXXOXXXOOXX
+XXXOXXXOXOXX
+OXOXXXOXOXOX
+.OXXXOOOOOXX
+.O.XXXXXXXOX
+XXXOOOOOOOOO
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [l2] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+X
+298.420000000001 298.430000000001
+XXXXXXOOX...
+XXXXXXXXXXXO
+XXXXXXXOOX.O
+XXXXXXXOXOXO
+XXXXXXOXOOXO
+XXXXXOXOOOXO
+XXXXOXXXOOXO
+XXXOXXXOXOXO
+OXOXXXOXOXOO
+.OXXXOOOOOXO
+.O.XXXXXXXOO
+XXXOOOOOOOOO
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [a11] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+298.430000000001 298.400000000001
+XXXXXXOOX...
+XXXXXXXXXXXO
+XXXXXXXOXX.O
+XXXXXXXXXOXO
+XXXXXXXXOOXO
+XXXXXXXOOOXO
+XXXXXXXXOOXO
+XXXXXXXOXOXO
+OXXXXXOXOXOO
+.XXXXOOOOOXO
+XO.XXXXXXXOO
+XXXOOOOOOOOO
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [c11] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+X
+298.400000000001 298.400000000001
+XXXXXXOOX...
+XXXXXXXXXXXO
+XXXXXXXOXX.O
+XXXXXXXXXOXO
+XXXXXXXXOOXO
+XXXXXXXOOOXO
+XXXXXXOXOOXO
+XXXXXOXOXOXO
+OXXXOXOXOXOO
+.OXOXOOOOOXO
+XOOOOOOOOOOO
+XXXOOOOOOOOO
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [k3] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+298.400000000001 298.370000000001
+XXXXXXOOX...
+XXXXXXXXXXXO
+XXXXXXXOXXXO
+XXXXXXXXXXXO
+XXXXXXXXXOXO
+XXXXXXXXOOXO
+XXXXXXXXOOXO
+XXXXXXXOXOXO
+OXXXXXOXOXOO
+.OXXXOOOOOXO
+XOXOOOOOOOOO
+XXXOOOOOOOOO
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [a10] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+===== random (X) must pass... =====
+INPUT for student:
+O
+298.370000000001 298.370000000001
+XXXXXXOOX...
+XXXXXXXXXXXO
+XXXXXXXOXXXO
+XXXXXXOXXXXO
+XXXXXOXXXOXO
+XXXXOXXXOOXO
+XXXOXXXXOOXO
+XXOXXXXOXOXO
+OOXXXXOXOXOO
+OOXXXOOOOOXO
+XOXOOOOOOOOO
+XXXOOOOOOOOO
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [l1] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for random:
+X
+298.370000000001 298.340000000002
+XXXXXXOOX..O
+XXXXXXXXXXOO
+XXXXXXXOXOXO
+XXXXXXOXOXXO
+XXXXXOXOXOXO
+XXXXOXOXOOXO
+XXXOXOXXOOXO
+XXOXOXXOXOXO
+OOXOXXOXOXOO
+OOOXXOOOOOXO
+XOXOOOOOOOOO
+XXXOOOOOOOOO
+##### Running: random-agent on homework2 #####
+##### SUCCESS: random-agent on homework2 #####
+##### random plays [k1] in 0.01s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+298.340000000002 298.360000000001
+XXXXXXOOX.XO
+XXXXXXXXXXXO
+XXXXXXXOXOXO
+XXXXXXOXOXXO
+XXXXXOXOXOXO
+XXXXOXOXOOXO
+XXXOXOXXOOXO
+XXOXOXXOXOXO
+OOXOXXOXOXOO
+OOOXXOOOOOXO
+XOXOOOOOOOOO
+XXXOOOOOOOOO
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [j1] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+##### GAME END. #####
+Pieces (including bonus) for random (X): 75, student (O): 70
+Final state of the game:
+XXXXXXOOOOOO
+XXXXXXXXOOOO
+XXXXXXXOXOXO
+XXXXXXOXOXXO
+XXXXXOXOXOXO
+XXXXOXOXOOXO
+XXXOXOXXOOXO
+XXOXOXXOXOXO
+OOXOXXOXOXOO
+OOOXXOOOOOXO
+XOXOOOOOOOOO
+XXXOOOOOOOOO
+##### GAME OVER: random wins by number of pieces #####
+########## ROUND 1 GAMESCORE AFTER GAME 2: random=2 and student=0 ##########

@@ -1,0 +1,5481 @@
+#################### ROUND 1: minimax (O) vs student (X): game 1 ####################
+##### game start! #####
+INPUT for minimax:
+O
+300 300
+............
+............
+..XO........
+..OX........
+............
+............
+............
+............
+........XO..
+........OX..
+............
+............
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [d5] in 0.07s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+300 299.93
+............
+............
+..XO........
+..OO........
+...O........
+............
+............
+............
+........XO..
+........OX..
+............
+............
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [e5] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+O
+299.93 299.97
+............
+............
+..XO........
+..OX........
+...OX.......
+............
+............
+............
+........XO..
+........OX..
+............
+............
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [i8] in 0.06s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+299.97 299.87
+............
+............
+..XO........
+..OX........
+...OX.......
+............
+............
+........O...
+........OO..
+........OX..
+............
+............
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [d6] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+O
+299.87 299.95
+............
+............
+..XO........
+..OX........
+...XX.......
+...X........
+............
+........O...
+........OO..
+........OX..
+............
+............
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [d7] in 0.06s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+299.95 299.81
+............
+............
+..XO........
+..OO........
+...OX.......
+...O........
+...O........
+........O...
+........OO..
+........OX..
+............
+............
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [h8] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+O
+299.81 299.92
+............
+............
+..XO........
+..OO........
+...OX.......
+...O........
+...O........
+.......XO...
+........XO..
+........OX..
+............
+............
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [g8] in 0.08s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+299.92 299.73
+............
+............
+..XO........
+..OO........
+...OX.......
+...O........
+...O........
+......OOO...
+........XO..
+........OX..
+............
+............
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [i11] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+O
+299.73 299.9
+............
+............
+..XO........
+..OO........
+...OX.......
+...O........
+...O........
+......OOO...
+........XO..
+........XX..
+........X...
+............
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [c2] in 0.08s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+299.9 299.65
+............
+..O.........
+..OO........
+..OO........
+...OX.......
+...O........
+...O........
+......OOO...
+........XO..
+........XX..
+........X...
+............
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [c5] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+O
+299.65 299.88
+............
+..O.........
+..OO........
+..OO........
+..XXX.......
+...O........
+...O........
+......OOO...
+........XO..
+........XX..
+........X...
+............
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [b6] in 0.14s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+299.88 299.51
+............
+..O.........
+..OO........
+..OO........
+..OXX.......
+.O.O........
+...O........
+......OOO...
+........XO..
+........XX..
+........X...
+............
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [b3] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+O
+299.51 299.86
+............
+..O.........
+.XOO........
+..XO........
+..OXX.......
+.O.O........
+...O........
+......OOO...
+........XO..
+........XX..
+........X...
+............
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [i12] in 0.17s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+299.86 299.34
+............
+..O.........
+.XOO........
+..XO........
+..OXX.......
+.O.O........
+...O........
+......OOO...
+........OO..
+........OX..
+........O...
+........O...
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [d1] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+O
+299.34 299.83
+...X........
+..X.........
+.XOO........
+..XO........
+..OXX.......
+.O.O........
+...O........
+......OOO...
+........OO..
+........OX..
+........O...
+........O...
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [f5] in 0.14s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+299.83 299.2
+...X........
+..X.........
+.XOO........
+..XO........
+..OOOO......
+.O.O........
+...O........
+......OOO...
+........OO..
+........OX..
+........O...
+........O...
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [g7] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+O
+299.2 299.8
+...X........
+..X.........
+.XOO........
+..XO........
+..OOOO......
+.O.O........
+...O..X.....
+......OXO...
+........XO..
+........OX..
+........O...
+........O...
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [k9] in 0.13s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+299.8 299.07
+...X........
+..X.........
+.XOO........
+..XO........
+..OOOO......
+.O.O........
+...O..X.....
+......OXO...
+........XOO.
+........OO..
+........O...
+........O...
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [c6] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+O
+299.07 299.78
+...X........
+..X.........
+.XOO........
+..XO........
+..XOOO......
+.OXO........
+...O..X.....
+......OXO...
+........XOO.
+........OO..
+........O...
+........O...
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [f6] in 0.15s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+299.78 298.92
+...X........
+..X.........
+.XOO........
+..XO........
+..XOOO......
+.OXO.O......
+...O..O.....
+......OOO...
+........OOO.
+........OO..
+........O...
+........O...
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [e4] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+O
+298.92 299.76
+...X........
+..X.........
+.XOX........
+..XXX.......
+..XXOO......
+.OXO.O......
+...O..O.....
+......OOO...
+........OOO.
+........OO..
+........O...
+........O...
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [b1] in 0.1s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+299.76 298.82
+.O.X........
+..O.........
+.XOO........
+..XXO.......
+..XXOO......
+.OXO.O......
+...O..O.....
+......OOO...
+........OOO.
+........OO..
+........O...
+........O...
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [g5] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+O
+298.82 299.74
+.O.X........
+..O.........
+.XOO........
+..XXO.......
+..XXXXX.....
+.OXO.O......
+...O..O.....
+......OOO...
+........OOO.
+........OO..
+........O...
+........O...
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [c7] in 0.17s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+299.74 298.65
+.O.X........
+..O.........
+.XOO........
+..OXO.......
+..OXXXX.....
+.OOO.O......
+..OO..O.....
+......OOO...
+........OOO.
+........OO..
+........O...
+........O...
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [b7] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+O
+298.65 299.71
+.O.X........
+..O.........
+.XOO........
+..OXO.......
+..OXXXX.....
+.OXO.O......
+.XOO..O.....
+......OOO...
+........OOO.
+........OO..
+........O...
+........O...
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [h5] in 0.21s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+299.71 298.44
+.O.X........
+..O.........
+.XOO........
+..OXO.......
+..OOOOOO....
+.OXO.O......
+.XOO..O.....
+......OOO...
+........OOO.
+........OO..
+........O...
+........O...
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [f4] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+O
+298.44 299.68
+.O.X........
+..O.........
+.XOO........
+..OXXX......
+..OOOOOO....
+.OXO.O......
+.XOO..O.....
+......OOO...
+........OOO.
+........OO..
+........O...
+........O...
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [a8] in 0.15s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+299.68 298.29
+.O.X........
+..O.........
+.XOO........
+..OXXX......
+..OOOOOO....
+.OOO.O......
+.OOO..O.....
+O.....OOO...
+........OOO.
+........OO..
+........O...
+........O...
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [d2] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+O
+298.29 299.66
+.O.X........
+..OX........
+.XOX........
+..OXXX......
+..OOOOOO....
+.OOO.O......
+.OOO..O.....
+O.....OOO...
+........OOO.
+........OO..
+........O...
+........O...
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [e2] in 0.09s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+299.66 298.2
+.O.X........
+..OOO.......
+.XOO........
+..OXXX......
+..OOOOOO....
+.OOO.O......
+.OOO..O.....
+O.....OOO...
+........OOO.
+........OO..
+........O...
+........O...
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [f3] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+O
+298.2 299.63
+.O.X........
+..OOX.......
+.XOO.X......
+..OXXX......
+..OOOOOO....
+.OOO.O......
+.OOO..O.....
+O.....OOO...
+........OOO.
+........OO..
+........O...
+........O...
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [f2] in 0.09s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+299.63 298.11
+.O.X........
+..OOOO......
+.XOO.O......
+..OXXO......
+..OOOOOO....
+.OOO.O......
+.OOO..O.....
+O.....OOO...
+........OOO.
+........OO..
+........O...
+........O...
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [g6] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+O
+298.11 299.61
+.O.X........
+..OOOO......
+.XOO.O......
+..OXXO......
+..OOOXOO....
+.OOO.OX.....
+.OOO..O.....
+O.....OOO...
+........OOO.
+........OO..
+........O...
+........O...
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [h7] in 0.08s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+299.61 298.03
+.O.X........
+..OOOO......
+.XOO.O......
+..OXOO......
+..OOOOOO....
+.OOO.OO.....
+.OOO..OO....
+O.....OOO...
+........OOO.
+........OO..
+........O...
+........O...
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [g4] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+O
+298.03 299.59
+.O.X........
+..OOXO......
+.XOO.X......
+..OXXXX.....
+..OOOOOO....
+.OOO.OO.....
+.OOO..OO....
+O.....OOO...
+........OOO.
+........OO..
+........O...
+........O...
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [g3] in 0.12s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+299.59 297.91
+.O.X........
+..OOXO......
+.XOO.XO.....
+..OXXOO.....
+..OOOOOO....
+.OOO.OO.....
+.OOO..OO....
+O.....OOO...
+........OOO.
+........OO..
+........O...
+........O...
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [d8] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+O
+297.91 299.57
+.O.X........
+..OOXO......
+.XOO.XO.....
+..OXXOO.....
+..OXOOOO....
+.OOX.OO.....
+.OOX..OO....
+O..X..OOO...
+........OOO.
+........OO..
+........O...
+........O...
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [a3] in 0.17s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+299.57 297.74
+.O.X........
+..OOXO......
+OOOO.XO.....
+..OXXOO.....
+..OXOOOO....
+.OOX.OO.....
+.OOX..OO....
+O..X..OOO...
+........OOO.
+........OO..
+........O...
+........O...
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [k11] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+O
+297.74 299.55
+.O.X........
+..OOXO......
+OOOO.XO.....
+..OXXOO.....
+..OXXOOO....
+.OOX.XO.....
+.OOX..XO....
+O..X..OXO...
+........XOO.
+........OX..
+........O.X.
+........O...
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [l12] in 0.31s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+299.55 297.43
+.O.X........
+..OOXO......
+OOOO.XO.....
+..OOXOO.....
+..OXOOOO....
+.OOX.OO.....
+.OOX..OO....
+O..X..OOO...
+........OOO.
+........OO..
+........O.O.
+........O..O
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [b4] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+O
+297.43 299.53
+.O.X........
+..OOXO......
+OOOO.XO.....
+.XXXXOO.....
+..XXOOOO....
+.OOX.OO.....
+.OOX..OO....
+O..X..OOO...
+........OOO.
+........OO..
+........O.O.
+........O..O
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [e3] in 0.19s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+299.53 297.24
+.O.X........
+..OOXO......
+OOOOOOO.....
+.XXOOOO.....
+..OXOOOO....
+.OOX.OO.....
+.OOX..OO....
+O..X..OOO...
+........OOO.
+........OO..
+........O.O.
+........O..O
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [c1] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+O
+297.24 299.51
+.OXX........
+..XOXO......
+OOXOOOO.....
+.XXOOOO.....
+..OXOOOO....
+.OOX.OO.....
+.OOX..OO....
+O..X..OOO...
+........OOO.
+........OO..
+........O.O.
+........O..O
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [a5] in 0.17s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+299.51 297.07
+.OXX........
+..XOXO......
+OOOOOOO.....
+.OXOOOO.....
+O.OXOOOO....
+.OOX.OO.....
+.OOX..OO....
+O..X..OOO...
+........OOO.
+........OO..
+........O.O.
+........O..O
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [a7] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+O
+297.07 299.49
+.OXX........
+..XOXO......
+OOOOOOO.....
+.OXOOOO.....
+O.OXOOOO....
+.OOX.OO.....
+XXXX..OO....
+O..X..OOO...
+........OOO.
+........OO..
+........O.O.
+........O..O
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [b8] in 0.17s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+299.49 296.9
+.OXX........
+..XOXO......
+OOOOOOO.....
+.OXOOOO.....
+O.OXOOOO....
+.OOO.OO.....
+XOOX..OO....
+OO.X..OOO...
+........OOO.
+........OO..
+........O.O.
+........O..O
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [k10] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+O
+296.9 299.47
+.OXX........
+..XOXO......
+OOOXOOO.....
+.OXOXOO.....
+O.OXOXOO....
+.OOO.OX.....
+XOOX..OX....
+OO.X..OOX...
+........OXO.
+........OOX.
+........O.O.
+........O..O
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [l11] in 0.43s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+299.47 296.47
+.OXX........
+..OOXO......
+OOOOOOO.....
+.OXOOOO.....
+O.OXOOOO....
+.OOO.OO.....
+XOOX..OO....
+OO.X..OOO...
+........OOO.
+........OOO.
+........O.OO
+........O..O
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [h6] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+O
+296.47 299.440000000001
+.OXX........
+..OXXO......
+OOOOXOO.....
+.OXOOXO.....
+O.OXOOXO....
+.OOO.OOX....
+XOOX..OO....
+OO.X..OOO...
+........OOO.
+........OOO.
+........O.OO
+........O..O
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [e1] in 0.23s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+299.440000000001 296.24
+.OOOO.......
+..OOOO......
+OOOOOOO.....
+.OXOOXO.....
+O.OXOOXO....
+.OOO.OOX....
+XOOX..OO....
+OO.X..OOO...
+........OOO.
+........OOO.
+........O.OO
+........O..O
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [g9] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+O
+296.24 299.410000000001
+.OOOO.......
+..OOOO......
+OOOOOOO.....
+.OXOOXO.....
+O.OXOOXO....
+.OOO.OXX....
+XOOX..XO....
+OO.X..XOO...
+......X.OOO.
+........OOO.
+........O.OO
+........O..O
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [g10] in 0.29s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+299.410000000001 295.95
+.OOOO.......
+..OOOO......
+OOOOOOO.....
+.OXOOXO.....
+O.OXOOOO....
+.OOO.OOX....
+XOOX..OO....
+OO.X..OOO...
+......O.OOO.
+......O.OOO.
+........O.OO
+........O..O
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [h4] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+O
+295.95 299.390000000001
+.OOOO.......
+..OOOO......
+OOOOOOO.....
+.OXOOXXX....
+O.OXOOOX....
+.OOO.OOX....
+XOOX..OO....
+OO.X..OOO...
+......O.OOO.
+......O.OOO.
+........O.OO
+........O..O
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [h3] in 0.18s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+299.390000000001 295.77
+.OOOO.......
+..OOOO......
+OOOOOOOO....
+.OXOOXOO....
+O.OXOOOO....
+.OOO.OOO....
+XOOX..OO....
+OO.X..OOO...
+......O.OOO.
+......O.OOO.
+........O.OO
+........O..O
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [a4] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+O
+295.77 299.370000000001
+.OOOO.......
+..OOOO......
+OOOOOOOO....
+XXXOOXOO....
+O.OXOOOO....
+.OOO.OOO....
+XOOX..OO....
+OO.X..OOO...
+......O.OOO.
+......O.OOO.
+........O.OO
+........O..O
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [d9] in 0.09s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+299.370000000001 295.68
+.OOOO.......
+..OOOO......
+OOOOOOOO....
+XXXOOXOO....
+O.OXOOOO....
+.OOO.OOO....
+XOOO..OO....
+OO.O..OOO...
+...O..O.OOO.
+......O.OOO.
+........O.OO
+........O..O
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [f1] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+O
+295.68 299.340000000001
+.OOOOX......
+..OOXX......
+OOOXOXOO....
+XXXOOXOO....
+O.OXOOOO....
+.OOO.OOO....
+XOOO..OO....
+OO.O..OOO...
+...O..O.OOO.
+......O.OOO.
+........O.OO
+........O..O
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [g2] in 0.06s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+299.340000000001 295.62
+.OOOOX......
+..OOOOO.....
+OOOXOOOO....
+XXXOOXOO....
+O.OXOOOO....
+.OOO.OOO....
+XOOO..OO....
+OO.O..OOO...
+...O..O.OOO.
+......O.OOO.
+........O.OO
+........O..O
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [i5] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+O
+295.62 299.320000000001
+.OOOOX......
+..OOOOO.....
+OOOXOOOO....
+XXXOOXOO....
+O.OXXXXXX...
+.OOO.OOO....
+XOOO..OO....
+OO.O..OOO...
+...O..O.OOO.
+......O.OOO.
+........O.OO
+........O..O
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [j5] in 0.14s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+299.320000000001 295.48
+.OOOOX......
+..OOOOO.....
+OOOXOOOO....
+XXXOOXOO....
+O.OOOOOOOO..
+.OOO.OOO....
+XOOO..OO....
+OO.O..OOO...
+...O..O.OOO.
+......O.OOO.
+........O.OO
+........O..O
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [b2] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+O
+295.48 299.290000000001
+.OOOOX......
+.XOOOOO.....
+OXOXOOOO....
+XXXOOXOO....
+O.OOOOOOOO..
+.OOO.OOO....
+XOOO..OO....
+OO.O..OOO...
+...O..O.OOO.
+......O.OOO.
+........O.OO
+........O..O
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [g1] in 0.06s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+299.290000000001 295.42
+.OOOOOO.....
+.XOOOOO.....
+OXOXOOOO....
+XXXOOXOO....
+O.OOOOOOOO..
+.OOO.OOO....
+XOOO..OO....
+OO.O..OOO...
+...O..O.OOO.
+......O.OOO.
+........O.OO
+........O..O
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [i7] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+O
+295.42 299.270000000001
+.OOOOOO.....
+.XOOOOO.....
+OXOXOOOO....
+XXXOOXOO....
+O.OOOOXOOO..
+.OOO.OOX....
+XOOO..OOX...
+OO.O..OOO...
+...O..O.OOO.
+......O.OOO.
+........O.OO
+........O..O
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [j8] in 0.1s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+299.270000000001 295.32
+.OOOOOO.....
+.XOOOOO.....
+OXOXOOOO....
+XXXOOOOO....
+O.OOOOOOOO..
+.OOO.OOO....
+XOOO..OOO...
+OO.O..OOOO..
+...O..O.OOO.
+......O.OOO.
+........O.OO
+........O..O
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [a2] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+O
+295.32 299.250000000001
+.OOOOOO.....
+XXOOOOO.....
+XXOXOOOO....
+XXXOOOOO....
+O.OOOOOOOO..
+.OOO.OOO....
+XOOO..OOO...
+OO.O..OOOO..
+...O..O.OOO.
+......O.OOO.
+........O.OO
+........O..O
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [a1] in 0.04s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+299.250000000001 295.28
+OOOOOOO.....
+OOOOOOO.....
+OXOXOOOO....
+OXXOOOOO....
+O.OOOOOOOO..
+.OOO.OOO....
+XOOO..OOO...
+OO.O..OOOO..
+...O..O.OOO.
+......O.OOO.
+........O.OO
+........O..O
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [i3] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+O
+295.28 299.220000000001
+OOOOOOO.....
+OOOOOOO.....
+OXOXXXXXX...
+OXXOOOOO....
+O.OOOOOOOO..
+.OOO.OOO....
+XOOO..OOO...
+OO.O..OOOO..
+...O..O.OOO.
+......O.OOO.
+........O.OO
+........O..O
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [j3] in 0.08s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+299.220000000001 295.2
+OOOOOOO.....
+OOOOOOO.....
+OXOOOOOOOO..
+OXXOOOOO....
+O.OOOOOOOO..
+.OOO.OOO....
+XOOO..OOO...
+OO.O..OOOO..
+...O..O.OOO.
+......O.OOO.
+........O.OO
+........O..O
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [k3] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+O
+295.2 299.190000000001
+OOOOOOO.....
+OOOOOOO.....
+OXXXXXXXXXX.
+OXXOOOOO....
+O.OOOOOOOO..
+.OOO.OOO....
+XOOO..OOO...
+OO.O..OOOO..
+...O..O.OOO.
+......O.OOO.
+........O.OO
+........O..O
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [l3] in 0.08s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+299.190000000001 295.12
+OOOOOOO.....
+OOOOOOO.....
+OOOOOOOOOOOO
+OXXOOOOO....
+O.OOOOOOOO..
+.OOO.OOO....
+XOOO..OOO...
+OO.O..OOOO..
+...O..O.OOO.
+......O.OOO.
+........O.OO
+........O..O
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [a9] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+O
+295.12 299.170000000001
+OOOOOOO.....
+OOOOOOO.....
+OOOOOOOOOOOO
+OXXOOOOO....
+O.OOOOOOOO..
+.OOO.OOO....
+XOOO..OOO...
+XO.O..OOOO..
+X..O..O.OOO.
+......O.OOO.
+........O.OO
+........O..O
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [b5] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+299.170000000001 295.1
+OOOOOOO.....
+OOOOOOO.....
+OOOOOOOOOOOO
+OOOOOOOO....
+OOOOOOOOOO..
+.OOO.OOO....
+XOOO..OOO...
+XO.O..OOOO..
+X..O..O.OOO.
+......O.OOO.
+........O.OO
+........O..O
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [c9] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+O
+295.1 299.150000000001
+OOOOOOO.....
+OOOOOOO.....
+OOOOOOOOOOOO
+OOOOOOOO....
+OOOOOOOOOO..
+.OOO.OOO....
+XOOO..OOO...
+XX.O..OOOO..
+X.XO..O.OOO.
+......O.OOO.
+........O.OO
+........O..O
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [b10] in 0.04s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+299.150000000001 295.06
+OOOOOOO.....
+OOOOOOO.....
+OOOOOOOOOOOO
+OOOOOOOO....
+OOOOOOOOOO..
+.OOO.OOO....
+XOOO..OOO...
+XX.O..OOOO..
+X.OO..O.OOO.
+.O....O.OOO.
+........O.OO
+........O..O
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [e7] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+O
+295.06 299.130000000001
+OOOOOOO.....
+OOOOOOO.....
+OOOOOOOOOOOO
+OOOOOOOO....
+OOOOOOOOOO..
+.OOO.OOO....
+XXXXX.OOO...
+XX.O..OOOO..
+X.OO..O.OOO.
+.O....O.OOO.
+........O.OO
+........O..O
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [f8] in 0.05s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+299.130000000001 295.01
+OOOOOOO.....
+OOOOOOO.....
+OOOOOOOOOOOO
+OOOOOOOO....
+OOOOOOOOOO..
+.OOO.OOO....
+XXXXO.OOO...
+XX.O.OOOOO..
+X.OO..O.OOO.
+.O....O.OOO.
+........O.OO
+........O..O
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [c11] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+O
+295.01 299.110000000001
+OOOOOOO.....
+OOOOOOO.....
+OOOOOOOOOOOO
+OOOOOOOO....
+OOOOOOOOOO..
+.OOO.OOO....
+XXXXO.OOO...
+XX.O.OOOOO..
+X.OO..O.OOO.
+.X....O.OOO.
+..X.....O.OO
+........O..O
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [a11] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+299.110000000001 294.98
+OOOOOOO.....
+OOOOOOO.....
+OOOOOOOOOOOO
+OOOOOOOO....
+OOOOOOOOOO..
+.OOO.OOO....
+XXXXO.OOO...
+XX.O.OOOOO..
+X.OO..O.OOO.
+.O....O.OOO.
+O.X.....O.OO
+........O..O
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [h2] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+O
+294.98 299.080000000001
+OOOOOOO.....
+OOOOOOOX....
+OOOOOOXOOOOO
+OOOOOXOO....
+OOOOXOOOOO..
+.OOX.OOO....
+XXXXO.OOO...
+XX.O.OOOOO..
+X.OO..O.OOO.
+.O....O.OOO.
+O.X.....O.OO
+........O..O
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [b9] in 0.08s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+299.080000000001 294.9
+OOOOOOO.....
+OOOOOOOX....
+OOOOOOXOOOOO
+OOOOOXOO....
+OOOOXOOOOO..
+.OOX.OOO....
+XOXXO.OOO...
+XO.O.OOOOO..
+XOOO..O.OOO.
+.O....O.OOO.
+O.X.....O.OO
+........O..O
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [j4] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+O
+294.9 299.060000000001
+OOOOOOO.....
+OOOOOOOX....
+OOOOOOXOXOOO
+OOOOOXOO.X..
+OOOOXOOOOO..
+.OOX.OOO....
+XOXXO.OOO...
+XO.O.OOOOO..
+XOOO..O.OOO.
+.O....O.OOO.
+O.X.....O.OO
+........O..O
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [i1] in 0.1s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+299.060000000001 294.8
+OOOOOOO.O...
+OOOOOOOO....
+OOOOOOOOXOOO
+OOOOOOOO.X..
+OOOOOOOOOO..
+.OOO.OOO....
+XOOXO.OOO...
+XO.O.OOOOO..
+XOOO..O.OOO.
+.O....O.OOO.
+O.X.....O.OO
+........O..O
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [j2] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+O
+294.8 299.030000000001
+OOOOOOO.O...
+OOOOOOOO.X..
+OOOOOOOOXXOO
+OOOOOOOO.X..
+OOOOOOOOOO..
+.OOO.OOO....
+XOOXO.OOO...
+XO.O.OOOOO..
+XOOO..O.OOO.
+.O....O.OOO.
+O.X.....O.OO
+........O..O
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [j1] in 0.05s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+299.030000000001 294.75
+OOOOOOO.OO..
+OOOOOOOO.O..
+OOOOOOOOXOOO
+OOOOOOOO.O..
+OOOOOOOOOO..
+.OOO.OOO....
+XOOXO.OOO...
+XO.O.OOOOO..
+XOOO..O.OOO.
+.O....O.OOO.
+O.X.....O.OO
+........O..O
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [f7] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+O
+294.75 299.010000000001
+OOOOOOO.OO..
+OOOOOOOO.O..
+OOOOOOOOXOOO
+OOOOOOOO.O..
+OOOOOOOOOO..
+.OOO.OOO....
+XOOXXXOOO...
+XO.O.OOOOO..
+XOOO..O.OOO.
+.O....O.OOO.
+O.X.....O.OO
+........O..O
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [e6] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+299.010000000001 294.72
+OOOOOOO.OO..
+OOOOOOOO.O..
+OOOOOOOOXOOO
+OOOOOOOO.O..
+OOOOOOOOOO..
+.OOOOOOO....
+XOOXXOOOO...
+XO.O.OOOOO..
+XOOO..O.OOO.
+.O....O.OOO.
+O.X.....O.OO
+........O..O
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [e9] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+O
+294.72 298.990000000001
+OOOOOOO.OO..
+OOOOOOOO.O..
+OOOOOOOOXOOO
+OOOOOOOO.O..
+OOOOOOOOOO..
+.OOOOOOO....
+XOOXXOOOO...
+XO.O.OOOOO..
+XXXXX.O.OOO.
+.O....O.OOO.
+O.X.....O.OO
+........O..O
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [d10] in 0.05s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+298.990000000001 294.67
+OOOOOOO.OO..
+OOOOOOOO.O..
+OOOOOOOOXOOO
+OOOOOOOO.O..
+OOOOOOOOOO..
+.OOOOOOO....
+XOOXXOOOO...
+XO.O.OOOOO..
+XXOOO.O.OOO.
+.O.O..O.OOO.
+O.X.....O.OO
+........O..O
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [j7] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+O
+294.67 298.970000000001
+OOOOOOO.OO..
+OOOOOOOO.O..
+OOOOOOOOXOOO
+OOOOOOOO.O..
+OOOOOOOOOO..
+.OOOOOOO....
+XOOXXXXXXX..
+XO.O.OOOOO..
+XXOOO.O.OOO.
+.O.O..O.OOO.
+O.X.....O.OO
+........O..O
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [k7] in 0.1s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+298.970000000001 294.57
+OOOOOOO.OO..
+OOOOOOOO.O..
+OOOOOOOOXOOO
+OOOOOOOO.O..
+OOOOOOOOOO..
+.OOOOOOO....
+XOOOOOOOOOO.
+XO.O.OOOOO..
+XXOOO.O.OOO.
+.O.O..O.OOO.
+O.X.....O.OO
+........O..O
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [l2] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+O
+294.57 298.940000000001
+OOOOOOO.OO..
+OOOOOOOO.O.X
+OOOOOOOOXOXO
+OOOOOOOO.X..
+OOOOOOOOXO..
+.OOOOOOX....
+XOOOOOXOOOO.
+XO.O.XOOOO..
+XXOOX.O.OOO.
+.O.X..O.OOO.
+O.X.....O.OO
+........O..O
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [l1] in 0.14s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+298.940000000001 294.43
+OOOOOOO.OO.O
+OOOOOOOO.O.O
+OOOOOOOOXOXO
+OOOOOOOO.X..
+OOOOOOOOXO..
+.OOOOOOX....
+XOOOOOXOOOO.
+XO.O.XOOOO..
+XXOOX.O.OOO.
+.O.X..O.OOO.
+O.X.....O.OO
+........O..O
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [b11] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+O
+294.43 298.910000000001
+OOOOOOO.OO.O
+OOOOOOOO.O.O
+OOOOOOOOXOXO
+OOOOOOOO.X..
+OOOOOOOOXO..
+.OOOOOOX....
+XOOOOOXOOOO.
+XO.O.XOOOO..
+XXOOX.O.OOO.
+.X.X..O.OOO.
+OXX.....O.OO
+........O..O
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [b12] in 0.11s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+298.910000000001 294.32
+OOOOOOO.OO.O
+OOOOOOOO.O.O
+OOOOOOOOXOOO
+OOOOOOOO.O..
+OOOOOOOOOO..
+.OOOOOOO....
+XOOOOOOOOOO.
+XO.O.OOOOO..
+XOOOO.O.OOO.
+.O.O..O.OOO.
+OOO.....O.OO
+.O......O..O
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [h1] in 0.01s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+===== minimax (O) must pass... =====
+INPUT for student:
+X
+298.900000000001 294.32
+OOOOOOOXOO.O
+OOOOOOXO.O.O
+OOOOOXOOXOOO
+OOOOXOOO.O..
+OOOXOOOOOO..
+.OXOOOOO....
+XXOOOOOOOOO.
+XO.O.OOOOO..
+XOOOO.O.OOO.
+.O.O..O.OOO.
+OOO.....O.OO
+.O......O..O
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [h9] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+O
+294.32 298.870000000001
+OOOOOOOXOO.O
+OOOOOOXX.O.O
+OOOOOXOXXOOO
+OOOOXOOX.O..
+OOOXOOOXOO..
+.OXOXOOX....
+XXOOOXOXOOO.
+XO.O.OXXOO..
+XOOOO.OXOOO.
+.O.O..O.OOO.
+OOO.....O.OO
+.O......O..O
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [i2] in 0.05s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+298.870000000001 294.27
+OOOOOOOXOO.O
+OOOOOOOOOO.O
+OOOOOXOOXOOO
+OOOOXOOX.O..
+OOOXOOOXOO..
+.OXOXOOX....
+XXOOOXOXOOO.
+XO.O.OXXOO..
+XOOOO.OXOOO.
+.O.O..O.OOO.
+OOO.....O.OO
+.O......O..O
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [f11] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+O
+294.27 298.850000000001
+OOOOOOOXOO.O
+OOOOOOOOOO.O
+OOOOOXOOXOOO
+OOOOXOOX.O..
+OOOXOOOXOO..
+.OXOXOOX....
+XXOOOXOXOOO.
+XO.O.OXXOO..
+XOOOO.OXOOO.
+.O.O..X.OOO.
+OOO..X..O.OO
+.O......O..O
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [e12] in 0.08s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+298.850000000001 294.19
+OOOOOOOXOO.O
+OOOOOOOOOO.O
+OOOOOXOOXOOO
+OOOOXOOX.O..
+OOOXOOOXOO..
+.OXOXOOX....
+XXOOOXOXOOO.
+XO.O.OXXOO..
+XOOOO.OOOOO.
+.O.O..O.OOO.
+OOO..O..O.OO
+.O..O...O..O
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [f10] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+O
+294.19 298.830000000001
+OOOOOOOXOO.O
+OOOOOOOOOO.O
+OOOOOXOOXOOO
+OOOOXOOX.O..
+OOOXOOOXOO..
+.OXOXOOX....
+XXOOOXOXOOO.
+XO.O.OXXOO..
+XOOOO.XOOOO.
+.O.O.XO.OOO.
+OOO..O..O.OO
+.O..O...O..O
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [e11] in 0.11s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+298.830000000001 294.08
+OOOOOOOXOO.O
+OOOOOOOOOO.O
+OOOOOXOOXOOO
+OOOOXOOX.O..
+OOOXOOOXOO..
+.OXOXOOX....
+XXOOOXOXOOO.
+XO.O.OXOOO..
+XOOOO.OOOOO.
+.O.O.OO.OOO.
+OOO.OO..O.OO
+.O..O...O..O
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [l7] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+O
+294.08 298.810000000001
+OOOOOOOXOO.O
+OOOOOOOOOO.O
+OOOOOXOOXOOO
+OOOOXOOX.O..
+OOOXOOOXOO..
+.OXOXOOX....
+XXOOOXOXXXXX
+XO.O.OXOOO..
+XOOOO.OOOOO.
+.O.O.OO.OOO.
+OOO.OO..O.OO
+.O..O...O..O
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [j6] in 0.08s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+298.810000000001 294
+OOOOOOOXOO.O
+OOOOOOOOOO.O
+OOOOOXOOXOOO
+OOOOXOOX.O..
+OOOXOOOXOO..
+.OXOXOOX.O..
+XXOOOXOXOOXX
+XO.O.OXOOO..
+XOOOO.OOOOO.
+.O.O.OO.OOO.
+OOO.OO..O.OO
+.O..O...O..O
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [k5] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+O
+294 298.780000000001
+OOOOOOOXOO.O
+OOOOOOOOOO.O
+OOOOOXOOXOOO
+OOOOXOOX.X..
+OOOXOOOXXXX.
+.OXOXOOX.O..
+XXOOOXOXOOXX
+XO.O.OXOOO..
+XOOOO.OOOOO.
+.O.O.OO.OOO.
+OOO.OO..O.OO
+.O..O...O..O
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [l6] in 0.09s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+298.780000000001 293.91
+OOOOOOOXOO.O
+OOOOOOOOOO.O
+OOOOOXOOOOOO
+OOOOXOOX.O..
+OOOXOOOXXXO.
+.OXOXOOX.O.O
+XXOOOXOXOOOX
+XO.O.OXOOO..
+XOOOO.OOOOO.
+.O.O.OO.OOO.
+OOO.OO..O.OO
+.O..O...O..O
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [a6] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+O
+293.91 298.750000000001
+OOOOOOOXOO.O
+OOOOOOOOOO.O
+OOOOOXOOOOOO
+OOOOXOOX.O..
+OOOXOOOXXXO.
+XXXOXOOX.O.O
+XXOOOXOXOOOX
+XO.O.OXOOO..
+XOOOO.OOOOO.
+.O.O.OO.OOO.
+OOO.OO..O.OO
+.O..O...O..O
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [a10] in 0.06s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+298.750000000001 293.85
+OOOOOOOXOO.O
+OOOOOOOOOO.O
+OOOOOXOOOOOO
+OOOOXOOX.O..
+OOOXOOOXXXO.
+OXXOXOOX.O.O
+OXOOOXOXOOOX
+OO.O.OXOOO..
+OOOOO.OOOOO.
+OO.O.OO.OOO.
+OOO.OO..O.OO
+.O..O...O..O
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [l10] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+O
+293.85 298.730000000001
+OOOOOOOXOO.O
+OOOOOOOOOO.O
+OOOOOXOOOOOO
+OOOOXOOX.O..
+OOOXOOOXXXO.
+OXXOXOOX.O.O
+OXOOOXOXXOOX
+OO.O.OXOOX..
+OOOOO.OOOOX.
+OO.O.OO.OOOX
+OOO.OO..O.OO
+.O..O...O..O
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [i4] in 0.08s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+298.730000000001 293.77
+OOOOOOOXOO.O
+OOOOOOOOOO.O
+OOOOOXOOOOOO
+OOOOXOOOOO..
+OOOXOOOOXXO.
+OXXOXOOX.O.O
+OXOOOXOXXOOX
+OO.O.OXOOX..
+OOOOO.OOOOX.
+OO.O.OO.OOOX
+OOO.OO..O.OO
+.O..O...O..O
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [l4] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+O
+293.77 298.700000000001
+OOOOOOOXOO.O
+OOOOOOOOOO.O
+OOOOOXOOOOOO
+OOOOXOOOOO.X
+OOOXOOOOXXX.
+OXXOXOOX.X.O
+OXOOOXOXXOOX
+OO.O.OXOOX..
+OOOOO.OOOOX.
+OO.O.OO.OOOX
+OOO.OO..O.OO
+.O..O...O..O
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [i6] in 0.1s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+298.700000000001 293.67
+OOOOOOOXOO.O
+OOOOOOOOOO.O
+OOOOOXOOOOOO
+OOOOXOOOOO.X
+OOOXOOOOOXX.
+OXXOXOOOOX.O
+OXOOOXOXOOOX
+OO.O.OXOOX..
+OOOOO.OOOOX.
+OO.O.OO.OOOX
+OOO.OO..O.OO
+.O..O...O..O
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [h12] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+O
+293.67 298.680000000001
+OOOOOOOXOO.O
+OOOOOOOOOO.O
+OOOOOXOOOOOO
+OOOOXOOOOO.X
+OOOXOOOOOXX.
+OXXOXOOOOX.O
+OXOOOXOXOOOX
+OO.O.OXOOX..
+OOOOO.OOOOX.
+OO.O.OO.OXOX
+OOO.OO..X.OO
+.O..O..XO..O
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [k8] in 0.13s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+298.680000000001 293.54
+OOOOOOOXOO.O
+OOOOOOOOOO.O
+OOOOOXOOOOOO
+OOOOXOOOOO.X
+OOOXOOOOOXX.
+OXXOXOOOOX.O
+OXOOOXOXOOOX
+OO.O.OXOOOO.
+OOOOO.OOOOO.
+OO.O.OO.OXOX
+OOO.OO..X.OO
+.O..O..XO..O
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [h10] in 0.01s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+O
+293.54 298.670000000001
+OOOOOOOXOO.O
+OOOOOOOOOO.O
+OOOOOXOOOOOO
+OOOOXOOOOO.X
+OOOXOOOOOXX.
+OXXOXOOOOX.O
+OXOOOXOXOOOX
+OO.O.OXXOOO.
+OOOOO.OXOOO.
+OO.O.OOXXXOX
+OOO.OO..X.OO
+.O..O..XO..O
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [j11] in 0.15s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+298.670000000001 293.39
+OOOOOOOXOO.O
+OOOOOOOOOO.O
+OOOOOXOOOOOO
+OOOOXOOOOO.X
+OOOOOOOOOXX.
+OXXOOOOOOX.O
+OXOOOOOXOOOX
+OO.O.OOXOOO.
+OOOOO.OOOOO.
+OO.O.OOXOOOX
+OOO.OO..XOOO
+.O..O..XO..O
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [l9] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+O
+293.39 298.640000000001
+OOOOOOOXOO.O
+OOOOOOOOOO.O
+OOOOOXOOOOOO
+OOOOXOXOOO.X
+OOOOOOOXOXX.
+OXXOOOOOXX.O
+OXOOOOOXOXOX
+OO.O.OOXOOX.
+OOOOO.OOOOOX
+OO.O.OOXOOOX
+OOO.OO..XOOO
+.O..O..XO..O
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [l8] in 0.08s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+298.640000000001 293.31
+OOOOOOOXOO.O
+OOOOOOOOOO.O
+OOOOOXOOOOOO
+OOOOXOXOOO.X
+OOOOOOOXOXX.
+OXXOOOOOXX.O
+OXOOOOOXOXOO
+OO.O.OOXOOOO
+OOOOO.OOOOOO
+OO.O.OOXOOOO
+OOO.OO..XOOO
+.O..O..XO..O
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [e8] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+O
+293.31 298.610000000001
+OOOOOOOXOO.O
+OOOOOOOOOO.O
+OOOOOXOOOOOO
+OOOOXOXOOO.X
+OOOOXOOXOXX.
+OXXOXOXOXX.O
+OXOXXXOXOXOO
+OO.OXXXXOOOO
+OOOOO.OOOOOO
+OO.O.OOXOOOO
+OOO.OO..XOOO
+.O..O..XO..O
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [l5] in 0.06s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+298.610000000001 293.25
+OOOOOOOXOO.O
+OOOOOOOOOO.O
+OOOOOXOOOOOO
+OOOOXOXOOO.O
+OOOOXOOXOOOO
+OXXOXOXOXX.O
+OXOXXXOXOXOO
+OO.OXXXXOOOO
+OOOOO.OOOOOO
+OO.O.OOXOOOO
+OOO.OO..XOOO
+.O..O..XO..O
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [k2] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+O
+293.25 298.590000000001
+OOOOOOOXOO.O
+OOOOOOOOOOXO
+OOOOOXOOOXOO
+OOOOXOXOXO.O
+OOOOXOOXOOOO
+OXXOXOXOXX.O
+OXOXXXOXOXOO
+OO.OXXXXOOOO
+OOOOO.OOOOOO
+OO.O.OOXOOOO
+OOO.OO..XOOO
+.O..O..XO..O
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [k1] in 0.06s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+298.590000000001 293.19
+OOOOOOOXOOOO
+OOOOOOOOOOOO
+OOOOOXOOOXOO
+OOOOXOXOXO.O
+OOOOXOOXOOOO
+OXXOXOXOXX.O
+OXOXXXOXOXOO
+OO.OXXXXOOOO
+OOOOO.OOOOOO
+OO.O.OOXOOOO
+OOO.OO..XOOO
+.O..O..XO..O
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [k12] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+O
+293.19 298.560000000001
+OOOOOOOXOOOO
+OOOOOOOOOOOO
+OOOOOXOOOXOO
+OOOOXOXOXO.O
+OOOOXOOXOOOO
+OXXOXOXOXX.O
+OXOXXXOXOXOO
+OO.OXXXXOOOO
+OOOOO.OXOOOO
+OO.O.OOXXOOO
+OOO.OO..XXOO
+.O..O..XO.XO
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [j12] in 0.05s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+298.560000000001 293.14
+OOOOOOOXOOOO
+OOOOOOOOOOOO
+OOOOOXOOOXOO
+OOOOXOXOXO.O
+OOOOXOOXOOOO
+OXXOXOXOXX.O
+OXOXXXOXOXOO
+OO.OXXXXOOOO
+OOOOO.OXOOOO
+OO.O.OOOXOOO
+OOO.OO..OOOO
+.O..O..XOOOO
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [c8] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+O
+293.14 298.540000000001
+OOOOOOOXOOOO
+OOOOOOOOOOOO
+OOOOOXOOOXOO
+OOOOXOXOXO.O
+OOOOXOOXOOOO
+OXXOXOXOXX.O
+OXXXXXOXOXOO
+OOXXXXXXOOOO
+OOOOO.OXOOOO
+OO.O.OOOXOOO
+OOO.OO..OOOO
+.O..O..XOOOO
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [k6] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+298.540000000001 293.12
+OOOOOOOXOOOO
+OOOOOOOOOOOO
+OOOOOXOOOXOO
+OOOOXOXOXO.O
+OOOOXOOXOOOO
+OXXOXOXOOOOO
+OXXXXXOXOOOO
+OOXXXXXXOOOO
+OOOOO.OXOOOO
+OO.O.OOOXOOO
+OOO.OO..OOOO
+.O..O..XOOOO
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [h11] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+O
+293.12 298.510000000001
+OOOOOOOXOOOO
+OOOOOOOOOOOO
+OOOOOXOOOXOO
+OOOOXOXOXO.O
+OOOOXOOXOOOO
+OXXOXOXOOOOO
+OXXXXXOXOOOO
+OOXXXXXXOOOO
+OOOOO.OXOOOO
+OO.O.OOXXOOO
+OOO.OO.XOOOO
+.O..O..XOOOO
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [g12] in 0.05s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+298.510000000001 293.07
+OOOOOOOXOOOO
+OOOOOOOOOOOO
+OOOOOXOOOXOO
+OOOOXOXOXO.O
+OOOOXOOXOOOO
+OXXOXOXOOOOO
+OXXXXXOXOOOO
+OOXXXXXXOOOO
+OOOOO.OXOOOO
+OO.O.OOXOOOO
+OOO.OO.OOOOO
+.O..O.OOOOOO
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [c10] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+O
+293.07 298.490000000001
+OOOOOOOXOOOO
+OOOOOOOOOOOO
+OOOOOXOOOXOO
+OOOOXOXOXO.O
+OOOOXOOXOOOO
+OXXOXOXOOOOO
+OXXXXXOXOOOO
+OOXXXXXXOOOO
+OOXXO.OXOOOO
+OOXO.OOXOOOO
+OOO.OO.OOOOO
+.O..O.OOOOOO
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [g11] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+298.490000000001 293.04
+OOOOOOOXOOOO
+OOOOOOOOOOOO
+OOOOOXOOOXOO
+OOOOXOXOXO.O
+OOOOXOOXOOOO
+OXXOXOXOOOOO
+OXXXXXOXOOOO
+OOXXXXXXOOOO
+OOXXO.OXOOOO
+OOXO.OOOOOOO
+OOO.OOOOOOOO
+.O..O.OOOOOO
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [c12] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+O
+293.04 298.470000000001
+OOOOOOOXOOOO
+OOOOOOOOOOOO
+OOOOOXOOOXOO
+OOOOXOXOXO.O
+OOOOXOOXOOOO
+OXXOXOXOOOOO
+OXXXXXOXOOOO
+OOXXXXXXOOOO
+OOXXO.OXOOOO
+OOXO.OOOOOOO
+OOX.OOOOOOOO
+.OX.O.OOOOOO
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [d12] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+298.470000000001 293.01
+OOOOOOOXOOOO
+OOOOOOOOOOOO
+OOOOOXOOOXOO
+OOOOXOXOXO.O
+OOOOXOOXOOOO
+OXXOXOXOOOOO
+OXXXXXOXOOOO
+OOXXXXXXOOOO
+OOXXO.OXOOOO
+OOXO.OOOOOOO
+OOO.OOOOOOOO
+.OOOO.OOOOOO
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [a12] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+O
+293.01 298.440000000001
+OOOOOOOXOOOO
+OOOOOOOOOOOO
+OOOOOXOOOXOO
+OOOOXOXOXO.O
+OOOOXOOXOOOO
+OXXOXOXOOOOO
+OXXXXXOXOOOO
+OOXXXXXXOOOO
+OOXXO.OXOOOO
+OOXO.OOOOOOO
+OXO.OOOOOOOO
+XOOOO.OOOOOO
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [k4] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+298.440000000001 292.98
+OOOOOOOXOOOO
+OOOOOOOOOOOO
+OOOOOXOOOOOO
+OOOOXOXOXOOO
+OOOOXOOXOOOO
+OXXOXOXOOOOO
+OXXXXXOXOOOO
+OOXXXXXXOOOO
+OOXXO.OXOOOO
+OOXO.OOOOOOO
+OXO.OOOOOOOO
+XOOOO.OOOOOO
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [e10] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+O
+292.98 298.420000000001
+OOOOOOOXOOOO
+OOOOOOOOOOOO
+OOOOOXOOOOOO
+OOOOXOXOXOOO
+OOOOXOOXOOOO
+OXXOXOXOOOOO
+OXXXXXOXOOOO
+OOXXXXXXOOOO
+OOXXX.OXOOOO
+OOXXXOOOOOOO
+OXO.OOOOOOOO
+XOOOO.OOOOOO
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [d11] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+X
+298.420000000001 292.95
+OOOOOOOXOOOO
+OOOOOOOOOOOO
+OOOOOXOOOOOO
+OOOOXOXOXOOO
+OOOOXOOXOOOO
+OXXOXOXOOOOO
+OXXOXXOXOOOO
+OOXOXXXXOOOO
+OOXOX.OXOOOO
+OOOOXOOOOOOO
+OXOOOOOOOOOO
+XOOOO.OOOOOO
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [f9] in 0.04s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+===== minimax (O) must pass... =====
+INPUT for student:
+X
+298.380000000001 292.95
+OOOOOOOXOOOO
+OOOOOOOOOOOO
+OOOOOXOOOOOO
+OOOOXOXOXOOO
+OOOOXOOXOOOO
+OXXOXOXOOOOO
+OXXOXXOXOOOO
+OOXOXXXXOOOO
+OOXOXXXXOOOO
+OOOOXOOOOOOO
+OXOOOOOOOOOO
+XOOOO.OOOOOO
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [f12] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+##### GAME END. #####
+Pieces (including bonus) for minimax (O): 106, student (X): 39
+Final state of the game:
+OOOOOOOXOOOO
+OOOOOOOOOOOO
+OOOOOXOOOOOO
+OOOOXOXOXOOO
+OOOOXOOXOOOO
+OXXOXOXOOOOO
+OXXOXXOXOOOO
+OOXOXXXXOOOO
+OOXOXXXXOOOO
+OOOXXXOOOOOO
+OXOOXXOOOOOO
+XXXXXXOOOOOO
+##### GAME OVER: minimax wins by number of pieces #####
+########## ROUND 1 GAMESCORE AFTER GAME 1: minimax=1 and student=0 ##########
+#################### ROUND 1: minimax (X) vs student (O): game 2 ####################
+##### game start! #####
+INPUT for student:
+O
+300 300
+............
+............
+..XO........
+..OX........
+............
+............
+............
+............
+........XO..
+........OX..
+............
+............
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [d5] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+X
+300 299.97
+............
+............
+..XO........
+..OO........
+...O........
+............
+............
+............
+........XO..
+........OX..
+............
+............
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [e3] in 0.06s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+299.97 299.94
+............
+............
+..XXX.......
+..OO........
+...O........
+............
+............
+............
+........XO..
+........OX..
+............
+............
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [d2] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+X
+299.94 299.95
+............
+...O........
+..XOX.......
+..OO........
+...O........
+............
+............
+............
+........XO..
+........OX..
+............
+............
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [h10] in 0.07s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+299.95 299.87
+............
+...O........
+..XOX.......
+..OO........
+...O........
+............
+............
+............
+........XO..
+.......XXX..
+............
+............
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [c2] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+X
+299.87 299.92
+............
+..OO........
+..OOX.......
+..OO........
+...O........
+............
+............
+............
+........XO..
+.......XXX..
+............
+............
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [b3] in 0.04s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+299.92 299.83
+............
+..OO........
+.XXXX.......
+..OO........
+...O........
+............
+............
+............
+........XO..
+.......XXX..
+............
+............
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [b2] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+X
+299.83 299.89
+............
+.OOO........
+.XOXX.......
+..OO........
+...O........
+............
+............
+............
+........XO..
+.......XXX..
+............
+............
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [d1] in 0.11s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+299.89 299.72
+...X........
+.OXX........
+.XOXX.......
+..OO........
+...O........
+............
+............
+............
+........XO..
+.......XXX..
+............
+............
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [b4] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+X
+299.72 299.87
+...X........
+.OXX........
+.OOXX.......
+.OOO........
+...O........
+............
+............
+............
+........XO..
+.......XXX..
+............
+............
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [d6] in 0.11s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+299.87 299.61
+...X........
+.OXX........
+.OOXX.......
+.OOX........
+...X........
+...X........
+............
+............
+........XO..
+.......XXX..
+............
+............
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [e2] in 0.04s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+X
+299.61 299.83
+...X........
+.OOOO.......
+.OOOX.......
+.OOX........
+...X........
+...X........
+............
+............
+........XO..
+.......XXX..
+............
+............
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [a4] in 0.12s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+299.83 299.49
+...X........
+.OXOO.......
+.XOOX.......
+XXXX........
+...X........
+...X........
+............
+............
+........XO..
+.......XXX..
+............
+............
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [b1] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+X
+299.49 299.81
+.O.X........
+.OOOO.......
+.XOOX.......
+XXXX........
+...X........
+...X........
+............
+............
+........XO..
+.......XXX..
+............
+............
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [f1] in 0.09s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+299.81 299.4
+.O.X.X......
+.OOOX.......
+.XOXX.......
+XXXX........
+...X........
+...X........
+............
+............
+........XO..
+.......XXX..
+............
+............
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [d7] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+X
+299.4 299.79
+.O.X.X......
+.OOOX.......
+.XOOX.......
+XXXO........
+...O........
+...O........
+...O........
+............
+........XO..
+.......XXX..
+............
+............
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [d8] in 0.1s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+299.79 299.3
+.O.X.X......
+.OOXX.......
+.XOXX.......
+XXXX........
+...X........
+...X........
+...X........
+...X........
+........XO..
+.......XXX..
+............
+............
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [f3] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+X
+299.3 299.77
+.O.X.X......
+.OOXX.......
+.XOOOO......
+XXXX........
+...X........
+...X........
+...X........
+...X........
+........XO..
+.......XXX..
+............
+............
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [g3] in 0.13s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+299.77 299.17
+.O.X.X......
+.OOXX.......
+.XXXXXX.....
+XXXX........
+...X........
+...X........
+...X........
+...X........
+........XO..
+.......XXX..
+............
+............
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [h9] in 0.04s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+X
+299.17 299.73
+.O.X.X......
+.OOXX.......
+.XXXXXX.....
+XXXX........
+...X........
+...X........
+...X........
+...X........
+.......OOO..
+.......XXX..
+............
+............
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [j8] in 0.08s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+299.73 299.09
+.O.X.X......
+.OOXX.......
+.XXXXXX.....
+XXXX........
+...X........
+...X........
+...X........
+...X.....X..
+.......OXX..
+.......XXX..
+............
+............
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [f2] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+X
+299.09 299.7
+.O.X.X......
+.OOOOO......
+.XXXXXX.....
+XXXX........
+...X........
+...X........
+...X........
+...X.....X..
+.......OXX..
+.......XXX..
+............
+............
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [g1] in 0.07s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+299.7 299.02
+.O.X.XX.....
+.OOOOX......
+.XXXXXX.....
+XXXX........
+...X........
+...X........
+...X........
+...X.....X..
+.......OXX..
+.......XXX..
+............
+............
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [c5] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+X
+299.02 299.68
+.O.X.XX.....
+.OOOOX......
+.XOXXXX.....
+XXOX........
+..OX........
+...X........
+...X........
+...X.....X..
+.......OXX..
+.......XXX..
+............
+............
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [a2] in 0.12s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+299.68 298.9
+.O.X.XX.....
+XXXXXX......
+.XOXXXX.....
+XXOX........
+..OX........
+...X........
+...X........
+...X.....X..
+.......OXX..
+.......XXX..
+............
+............
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [h3] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+X
+298.9 299.66
+.O.X.XX.....
+XXXXXX......
+.XOOOOOO....
+XXOX........
+..OX........
+...X........
+...X........
+...X.....X..
+.......OXX..
+.......XXX..
+............
+............
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [i3] in 0.13s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+299.66 298.77
+.O.X.XX.....
+XXXXXX......
+.XXXXXXXX...
+XXOX........
+..OX........
+...X........
+...X........
+...X.....X..
+.......OXX..
+.......XXX..
+............
+............
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [a3] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+X
+298.77 299.63
+.O.X.XX.....
+XXXXXX......
+OXXXXXXXX...
+XOOX........
+..OX........
+...X........
+...X........
+...X.....X..
+.......OXX..
+.......XXX..
+............
+............
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [g9] in 0.07s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+299.63 298.7
+.O.X.XX.....
+XXXXXX......
+OXXXXXXXX...
+XOOX........
+..OX........
+...X........
+...X........
+...X.....X..
+......XXXX..
+.......XXX..
+............
+............
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [j3] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+X
+298.7 299.61
+.O.X.XX.....
+XXXXXX......
+OOOOOOOOOO..
+XOOX........
+..OX........
+...X........
+...X........
+...X.....X..
+......XXXX..
+.......XXX..
+............
+............
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [b5] in 0.1s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+299.61 298.6
+.O.X.XX.....
+XXXXXX......
+OXOXOOOOOO..
+XXXX........
+.XXX........
+...X........
+...X........
+...X.....X..
+......XXXX..
+.......XXX..
+............
+............
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [e5] in 0.04s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+X
+298.6 299.57
+.O.X.XX.....
+XXXXXX......
+OXOXOOOOOO..
+XXXO........
+.XXXO.......
+...X........
+...X........
+...X.....X..
+......XXXX..
+.......XXX..
+............
+............
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [f6] in 0.08s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+299.57 298.52
+.O.X.XX.....
+XXXXXX......
+OXXXOOOOOO..
+XXXX........
+.XXXX.......
+...X.X......
+...X........
+...X.....X..
+......XXXX..
+.......XXX..
+............
+............
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [b6] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+X
+298.52 299.55
+.O.X.XX.....
+XOXXXX......
+OOXXOOOOOO..
+XOXO........
+.OOXX.......
+.O.X.X......
+...X........
+...X.....X..
+......XXXX..
+.......XXX..
+............
+............
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [a5] in 0.11s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+299.55 298.41
+.O.X.XX.....
+XOXXXX......
+OOXXOOOOOO..
+XXXO........
+XXXXX.......
+.O.X.X......
+...X........
+...X.....X..
+......XXXX..
+.......XXX..
+............
+............
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [e7] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+X
+298.41 299.52
+.O.X.XX.....
+XOXXXX......
+OOXXOOOOOO..
+XOXO........
+XXOXX.......
+.O.O.X......
+...XO.......
+...X.....X..
+......XXXX..
+.......XXX..
+............
+............
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [a7] in 0.13s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+299.52 298.28
+.O.X.XX.....
+XOXXXX......
+OOXXXOOOOO..
+XOXX........
+XXXXX.......
+.X.O.X......
+X..XO.......
+...X.....X..
+......XXXX..
+.......XXX..
+............
+............
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [a6] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+X
+298.28 299.5
+.O.X.XX.....
+XOXXXX......
+OOXXXOOOOO..
+OOXX........
+OXXXX.......
+OX.O.X......
+X..XO.......
+...X.....X..
+......XXXX..
+.......XXX..
+............
+............
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [a1] in 0.1s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+299.5 298.18
+XO.X.XX.....
+XXXXXX......
+OOXXXOOOOO..
+OOXX........
+OXXXX.......
+OX.O.X......
+X..XO.......
+...X.....X..
+......XXXX..
+.......XXX..
+............
+............
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [e4] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+X
+298.18 299.48
+XO.X.XX.....
+XXOXXX......
+OOXOXOOOOO..
+OOOOO.......
+OXXXX.......
+OX.O.X......
+X..XO.......
+...X.....X..
+......XXXX..
+.......XXX..
+............
+............
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [c7] in 0.12s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+299.48 298.06
+XO.X.XX.....
+XXOXXX......
+OOXOXOOOOO..
+OOOOO.......
+OXXXX.......
+OX.X.X......
+X.XXO.......
+...X.....X..
+......XXXX..
+.......XXX..
+............
+............
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [d9] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+X
+298.06 299.45
+XO.X.XX.....
+XXOXXX......
+OOXOXOOOOO..
+OOOOO.......
+OXXOX.......
+OX.O.X......
+X.XOO.......
+...O.....X..
+...O..XXXX..
+.......XXX..
+............
+............
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [d10] in 0.15s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+299.45 297.91
+XO.X.XX.....
+XXOXXX......
+OOXXXOOOOO..
+OOOXO.......
+OXXXX.......
+OX.X.X......
+X.XXO.......
+...X.....X..
+...X..XXXX..
+...X...XXX..
+............
+............
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [b7] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+X
+297.91 299.42
+XO.X.XX.....
+XXOXXX......
+OOXXXOOOOO..
+OOOXO.......
+OOXXX.......
+OO.X.X......
+XOOOO.......
+...X.....X..
+...X..XXXX..
+...X...XXX..
+............
+............
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [f7] in 0.12s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+299.42 297.79
+XO.X.XX.....
+XXOXXX......
+OOXXXOOOOO..
+OOOXO.......
+OOXXX.......
+OO.X.X......
+XXXXXX......
+...X.....X..
+...X..XXXX..
+...X...XXX..
+............
+............
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [a8] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+X
+297.79 299.4
+XO.X.XX.....
+XXOXXX......
+OOXXXOOOOO..
+OOOXO.......
+OOXXX.......
+OO.X.X......
+OXXXXX......
+O..X.....X..
+...X..XXXX..
+...X...XXX..
+............
+............
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [a9] in 0.09s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+299.4 297.7
+XO.X.XX.....
+XXOXXX......
+XOXXXOOOOO..
+XOOXO.......
+XOXXX.......
+XO.X.X......
+XXXXXX......
+X..X.....X..
+X..X..XXXX..
+...X...XXX..
+............
+............
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [c6] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+X
+297.7 299.38
+XO.X.XX.....
+XXOXXX......
+XOXXXOOOOO..
+XOOXO.......
+XOOOX.......
+XOOX.X......
+XXXXXX......
+X..X.....X..
+X..X..XXXX..
+...X...XXX..
+............
+............
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [g2] in 0.08s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+299.38 297.62
+XO.X.XX.....
+XXOXXXX.....
+XOXXXXOOOO..
+XOOXX.......
+XOOXX.......
+XOXX.X......
+XXXXXX......
+X..X.....X..
+X..X..XXXX..
+...X...XXX..
+............
+............
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [e8] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+X
+297.62 299.36
+XO.X.XX.....
+XXOXXXX.....
+XOXXXXOOOO..
+XOOXX.......
+XOOXX.......
+XOOX.X......
+XXXOXX......
+X..XO....X..
+X..X..XXXX..
+...X...XXX..
+............
+............
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [f9] in 0.11s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+299.36 297.51
+XO.X.XX.....
+XXOXXXX.....
+XOXXXXOOOO..
+XOOXX.......
+XXOXX.......
+XOXX.X......
+XXXXXX......
+X..XX....X..
+X..X.XXXXX..
+...X...XXX..
+............
+............
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [f5] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+X
+297.51 299.34
+XO.X.XX.....
+XXOXXXX.....
+XOXOXXOOOO..
+XOOXO.......
+XXOOOO......
+XOXX.X......
+XXXXXX......
+X..XX....X..
+X..X.XXXXX..
+...X...XXX..
+............
+............
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [e6] in 0.09s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+299.34 297.42
+XO.X.XX.....
+XXOXXXX.....
+XXXOXXOOOO..
+XOXXX.......
+XXOXXO......
+XOXXXX......
+XXXXXX......
+X..XX....X..
+X..X.XXXXX..
+...X...XXX..
+............
+............
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [c8] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+X
+297.42 299.31
+XO.X.XX.....
+XXOXXXX.....
+XXXOXXOOOO..
+XOXXX.......
+XXOXXO......
+XOOXOX......
+XXOOXX......
+X.OXX....X..
+X..X.XXXXX..
+...X...XXX..
+............
+............
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [c9] in 0.13s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+299.31 297.29
+XO.X.XX.....
+XXOXXXX.....
+XXXOXXOOOO..
+XOXXX.......
+XXXXXO......
+XOXXOX......
+XXXOXX......
+X.XXX....X..
+X.XX.XXXXX..
+...X...XXX..
+............
+............
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [g8] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+X
+297.29 299.29
+XO.X.XX.....
+XXOXXXX.....
+XXXOXXOOOO..
+XOXXX.......
+XXXXXO......
+XOXXOX......
+XXXOXO......
+X.XXX.O..X..
+X.XX.XXXXX..
+...X...XXX..
+............
+............
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [c1] in 0.15s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+299.29 297.14
+XXXX.XX.....
+XXXXXXX.....
+XXXOXXOOOO..
+XOXXX.......
+XXXXXO......
+XOXXOX......
+XXXOXO......
+X.XXX.O..X..
+X.XX.XXXXX..
+...X...XXX..
+............
+............
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [j11] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+X
+297.14 299.260000000001
+XXXX.XX.....
+XXXXXXX.....
+XXXOXXOOOO..
+XOXXX.......
+XXXXXO......
+XOXXOX......
+XXXOXO......
+X.XXX.O..X..
+X.XX.XXOXX..
+...X...XOX..
+.........O..
+............
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [k12] in 0.27s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+299.260000000001 296.87
+XXXX.XX.....
+XXXXXXX.....
+XXXOXXOOOO..
+XOXXX.......
+XXXXXO......
+XOXXXX......
+XXXOXX......
+X.XXX.X..X..
+X.XX.XXXXX..
+...X...XXX..
+.........X..
+..........X.
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [f4] in 0.04s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+X
+296.87 299.22
+XXXX.XX.....
+XXXXXXX.....
+XXXOXXOOOO..
+XOOOOO......
+XXXXXO......
+XOXXXX......
+XXXOXX......
+X.XXX.X..X..
+X.XX.XXXXX..
+...X...XXX..
+.........X..
+..........X.
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [g4] in 0.08s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+299.22 296.79
+XXXX.XX.....
+XXXXXXX.....
+XXXOXXXOOO..
+XXXXXXX.....
+XXXXXX......
+XOXXXX......
+XXXOXX......
+X.XXX.X..X..
+X.XX.XXXXX..
+...X...XXX..
+.........X..
+..........X.
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [g10] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+X
+296.79 299.200000000001
+XXXX.XX.....
+XXXXXXX.....
+XXXOXXXOOO..
+XXXXXXX.....
+XXXXXX......
+XOXXXX......
+XXXOXX......
+X.XXO.X..X..
+X.XX.OXXXX..
+...X..OXXX..
+.........X..
+..........X.
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [h11] in 0.1s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+299.200000000001 296.69
+XXXX.XX.....
+XXXXXXX.....
+XXXOXXXOOO..
+XXXXXXX.....
+XXXXXX......
+XOXXXX......
+XXXXXX......
+X.XXX.X..X..
+X.XX.XXXXX..
+...X..XXXX..
+.......X.X..
+..........X.
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [e9] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+X
+296.69 299.180000000001
+XXXX.XX.....
+XXXXXXX.....
+XXXOXXXOOO..
+XXXXXXX.....
+XXXXXX......
+XOXXXX......
+XXOXXX......
+X.XOX.X..X..
+X.XXOXXXXX..
+...X..XXXX..
+.......X.X..
+..........X.
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [f10] in 0.07s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+299.180000000001 296.62
+XXXX.XX.....
+XXXXXXX.....
+XXXOXXXOOO..
+XXXXXXX.....
+XXXXXX......
+XXXXXX......
+XXXXXX......
+X.XXX.X..X..
+X.XXXXXXXX..
+...X.XXXXX..
+.......X.X..
+..........X.
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [d11] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+X
+296.62 299.150000000001
+XXXX.XX.....
+XXXXXXX.....
+XXXOXXXOOO..
+XXXOXXX.....
+XXXOXX......
+XXXOXX......
+XXXOXX......
+X.XOX.X..X..
+X.XOXXXXXX..
+...O.XXXXX..
+...O...X.X..
+..........X.
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [d12] in 0.1s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+299.150000000001 296.52
+XXXX.XX.....
+XXXXXXX.....
+XXXXXXXOOO..
+XXXXXXX.....
+XXXXXX......
+XXXXXX......
+XXXXXX......
+X.XXX.X..X..
+X.XXXXXXXX..
+...X.XXXXX..
+...X...X.X..
+...X......X.
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [b9] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+X
+296.52 299.120000000001
+XXXX.XX.....
+XXXXXXX.....
+XXXXXXXOOO..
+XXXXXXO.....
+XXXXXO......
+XXXXOX......
+XXXOXX......
+X.OXX.X..X..
+XOXXXXXXXX..
+...X.XXXXX..
+...X...X.X..
+...X......X.
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [k3] in 0.09s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+299.120000000001 296.43
+XXXX.XX.....
+XXXXXXX.....
+XXXXXXXXXXX.
+XXXXXXO.....
+XXXXXO......
+XXXXOX......
+XXXOXX......
+X.OXX.X..X..
+XOXXXXXXXX..
+...X.XXXXX..
+...X...X.X..
+...X......X.
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [e1] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+X
+296.43 299.100000000001
+XXXXOXX.....
+XXXXOXX.....
+XXXXOXXXXXX.
+XXXXOXO.....
+XXXXOO......
+XXXXOX......
+XXXOXX......
+X.OXX.X..X..
+XOXXXXXXXX..
+...X.XXXXX..
+...X...X.X..
+...X......X.
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [g5] in 0.09s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+299.100000000001 296.34
+XXXXOXX.....
+XXXXOXX.....
+XXXXOXXXXXX.
+XXXXOXX.....
+XXXXXXX.....
+XXXXOX......
+XXXOXX......
+X.OXX.X..X..
+XOXXXXXXXX..
+...X.XXXXX..
+...X...X.X..
+...X......X.
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [i2] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+X
+296.34 299.070000000001
+XXXXOXX.....
+XXXXOXX.O...
+XXXXOXXOXXX.
+XXXXOXO.....
+XXXXXOX.....
+XXXXOX......
+XXXOXX......
+X.OXX.X..X..
+XOXXXXXXXX..
+...X.XXXXX..
+...X...X.X..
+...X......X.
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [b8] in 0.11s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+299.070000000001 296.23
+XXXXOXX.....
+XXXXOXX.O...
+XXXXOXXOXXX.
+XXXXOXO.....
+XXXXXOX.....
+XXXXOX......
+XXXOXX......
+XXXXX.X..X..
+XOXXXXXXXX..
+...X.XXXXX..
+...X...X.X..
+...X......X.
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [e10] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+X
+296.23 299.040000000001
+XXXXOXX.....
+XXXXOXX.O...
+XXXXOXXOXXX.
+XXXXOXO.....
+XXXXXOX.....
+XXXXOX......
+XXXOOX......
+XXXXO.X..X..
+XOXXOXXXXX..
+...XOXXXXX..
+...X...X.X..
+...X......X.
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [f8] in 0.21s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+299.040000000001 296.02
+XXXXOXX.....
+XXXXOXX.O...
+XXXXOXXOXXX.
+XXXXOXO.....
+XXXXXOX.....
+XXXXOX......
+XXXOXX......
+XXXXXXX..X..
+XOXXXXXXXX..
+...XOXXXXX..
+...X...X.X..
+...X......X.
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [h2] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+X
+296.02 299.010000000001
+XXXXOXX.....
+XXXXOOOOO...
+XXXXOXXOXXX.
+XXXXOXO.....
+XXXXXOX.....
+XXXXOX......
+XXXOXX......
+XXXXXXX..X..
+XOXXXXXXXX..
+...XOXXXXX..
+...X...X.X..
+...X......X.
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [b10] in 0.19s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+299.010000000001 295.83
+XXXXOXX.....
+XXXXOOOOO...
+XXXXOXXOXXX.
+XXXXOXO.....
+XXXXXOX.....
+XXXXOX......
+XXXOXX......
+XXXXXXX..X..
+XXXXXXXXXX..
+.X.XOXXXXX..
+...X...X.X..
+...X......X.
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [h4] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+X
+295.83 298.980000000001
+XXXXOXX.....
+XXXXOOOOO...
+XXXXOXOOXXX.
+XXXXOXOO....
+XXXXXOX.....
+XXXXOX......
+XXXOXX......
+XXXXXXX..X..
+XXXXXXXXXX..
+.X.XOXXXXX..
+...X...X.X..
+...X......X.
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [j2] in 0.12s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+298.980000000001 295.71
+XXXXOXX.....
+XXXXXXXXXX..
+XXXXOXOOXXX.
+XXXXOXOO....
+XXXXXOX.....
+XXXXOX......
+XXXOXX......
+XXXXXXX..X..
+XXXXXXXXXX..
+.X.XOXXXXX..
+...X...X.X..
+...X......X.
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [j1] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+X
+295.71 298.960000000001
+XXXXOXX..O..
+XXXXXXXXOX..
+XXXXOXOOXXX.
+XXXXOXOO....
+XXXXXOX.....
+XXXXOX......
+XXXOXX......
+XXXXXXX..X..
+XXXXXXXXXX..
+.X.XOXXXXX..
+...X...X.X..
+...X......X.
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [h5] in 0.1s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+298.960000000001 295.61
+XXXXOXX..O..
+XXXXXXXXOX..
+XXXXOXOXXXX.
+XXXXOXXX....
+XXXXXOXX....
+XXXXOX......
+XXXOXX......
+XXXXXXX..X..
+XXXXXXXXXX..
+.X.XOXXXXX..
+...X...X.X..
+...X......X.
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [i12] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+X
+295.61 298.940000000001
+XXXXOXX..O..
+XXXXXXXXOX..
+XXXXOXOXXXX.
+XXXXOXXX....
+XXXXXOXX....
+XXXXOX......
+XXXOXX......
+XXXXOXX..X..
+XXXXXOXXXX..
+.X.XOXOXXX..
+...X...O.X..
+...X....O.X.
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [g6] in 0.13s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+298.940000000001 295.48
+XXXXOXX..O..
+XXXXXXXXOX..
+XXXXOXOXXXX.
+XXXXXXXX....
+XXXXXXXX....
+XXXXOXX.....
+XXXOXX......
+XXXXOXX..X..
+XXXXXOXXXX..
+.X.XOXOXXX..
+...X...O.X..
+...X....O.X.
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [i8] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+X
+295.48 298.910000000001
+XXXXOXX..O..
+XXXXXXXXOX..
+XXXXOXOXXXX.
+XXXXXXXX....
+XXXXXXXX....
+XXXXOXX.....
+XXXOXX......
+XXXXOXX.OX..
+XXXXXOXOXX..
+.X.XOXOXXX..
+...X...O.X..
+...X....O.X.
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [h8] in 0.15s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+298.910000000001 295.33
+XXXXOXX..O..
+XXXXXXXXOX..
+XXXXOXOXXXX.
+XXXXXXXX....
+XXXXXXXX....
+XXXXOXX.....
+XXXOXX......
+XXXXOXXXXX..
+XXXXXOXXXX..
+.X.XOXOXXX..
+...X...O.X..
+...X....O.X.
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [k4] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+X
+295.33 298.880000000001
+XXXXOXX..O..
+XXXXXXXXOX..
+XXXXOXOXXOX.
+XXXXXXXX..O.
+XXXXXXXX....
+XXXXOXX.....
+XXXOXX......
+XXXXOXXXXX..
+XXXXXOXXXX..
+.X.XOXOXXX..
+...X...O.X..
+...X....O.X.
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [k5] in 0.11s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+298.880000000001 295.22
+XXXXOXX..O..
+XXXXXXXXOX..
+XXXXOXOXXOX.
+XXXXXXXX..X.
+XXXXXXXX..X.
+XXXXOXX.....
+XXXOXX......
+XXXXOXXXXX..
+XXXXXOXXXX..
+.X.XOXOXXX..
+...X...O.X..
+...X....O.X.
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [k9] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+X
+295.22 298.850000000001
+XXXXOXX..O..
+XXXXXXXXOX..
+XXXXOXOXXOX.
+XXXXXXXX..X.
+XXXXXXXX..X.
+XXXXOXX.....
+XXXOXX......
+XXXXOXXXXX..
+XXXXXOOOOOO.
+.X.XOXOXXX..
+...X...O.X..
+...X....O.X.
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [l9] in 0.25s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+298.850000000001 294.97
+XXXXOXX..O..
+XXXXXXXXOX..
+XXXXOXOXXOX.
+XXXXXXXX..X.
+XXXXXXXX..X.
+XXXXOXX.....
+XXXOXX......
+XXXXOXXXXX..
+XXXXXXXXXXXX
+.X.XOXOXXX..
+...X...O.X..
+...X....O.X.
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [l3] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+X
+294.97 298.820000000001
+XXXXOXX..O..
+XXXXXXXXOX..
+XXXXOXOXXOOO
+XXXXXXXX..X.
+XXXXXXXX..X.
+XXXXOXX.....
+XXXOXX......
+XXXXOXXXXX..
+XXXXXXXXXXXX
+.X.XOXOXXX..
+...X...O.X..
+...X....O.X.
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [g12] in 0.13s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+298.820000000001 294.84
+XXXXOXX..O..
+XXXXXXXXOX..
+XXXXOXOXXOOO
+XXXXXXXX..X.
+XXXXXXXX..X.
+XXXXOXX.....
+XXXOXX......
+XXXXOXXXXX..
+XXXXXXXXXXXX
+.X.XOXOXXX..
+...X...X.X..
+...X..X.O.X.
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [j7] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+X
+294.84 298.790000000001
+XXXXOXX..O..
+XXXXXXXXOX..
+XXXXOXOXXOOO
+XXXXXXXX..X.
+XXXXXXXX..X.
+XXXXOXX.....
+XXXOXX...O..
+XXXXOXXXOX..
+XXXXXXXOXXXX
+.X.XOXOXXX..
+...X...X.X..
+...X..X.O.X.
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [f11] in 0.16s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+298.790000000001 294.68
+XXXXOXX..O..
+XXXXXXXXOX..
+XXXXOXOXXOOO
+XXXXXXXX..X.
+XXXXXXXX..X.
+XXXXOXX.....
+XXXOXX...O..
+XXXXOXXXOX..
+XXXXXXXOXXXX
+.X.XXXOXXX..
+...X.X.X.X..
+...X..X.O.X.
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [h1] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+X
+294.68 298.770000000001
+XXXXOOOO.O..
+XXXXXXXXOX..
+XXXXOXOXXOOO
+XXXXXXXX..X.
+XXXXXXXX..X.
+XXXXOXX.....
+XXXOXX...O..
+XXXXOXXXOX..
+XXXXXXXOXXXX
+.X.XXXOXXX..
+...X.X.X.X..
+...X..X.O.X.
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [i1] in 0.13s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+298.770000000001 294.55
+XXXXXXXXXO..
+XXXXXXXXXX..
+XXXXOXOXXOOO
+XXXXXXXX..X.
+XXXXXXXX..X.
+XXXXOXX.....
+XXXOXX...O..
+XXXXOXXXOX..
+XXXXXXXOXXXX
+.X.XXXOXXX..
+...X.X.X.X..
+...X..X.O.X.
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [k6] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+X
+294.55 298.740000000001
+XXXXXXXXXO..
+XXXXXXXXXX..
+XXXXOXOXXOOO
+XXXXXXXX..O.
+XXXXXXXX..O.
+XXXXOXX...O.
+XXXOXX...O..
+XXXXOXXXOX..
+XXXXXXXOXXXX
+.X.XXXOXXX..
+...X.X.X.X..
+...X..X.O.X.
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [l5] in 0.1s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+298.740000000001 294.45
+XXXXXXXXXO..
+XXXXXXXXXX..
+XXXXOXOXXXOO
+XXXXXXXX..X.
+XXXXXXXX..OX
+XXXXOXX...X.
+XXXOXX...X..
+XXXXOXXXXX..
+XXXXXXXXXXXX
+.X.XXXXXXX..
+...X.X.X.X..
+...X..X.O.X.
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [e11] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+X
+294.45 298.710000000001
+XXXXXXXXXO..
+XXXXXXXXXX..
+XXXXOXOXXXOO
+XXXXXXXX..X.
+XXXXXXXX..OX
+XXXXOXX...X.
+XXXOXX...X..
+XXXXOXXXXX..
+XXXXOXXXXXXX
+.X.XOXXXXX..
+...XOX.X.X..
+...X..X.O.X.
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [e12] in 0.08s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+298.710000000001 294.37
+XXXXXXXXXO..
+XXXXXXXXXX..
+XXXXOXOXXXOO
+XXXXXXXX..X.
+XXXXXXXX..OX
+XXXXOXX...X.
+XXXOXX...X..
+XXXXXXXXXX..
+XXXXXXXXXXXX
+.X.XXXXXXX..
+...XXX.X.X..
+...XX.X.O.X.
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [g7] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+X
+294.37 298.690000000001
+XXXXXXXXXO..
+XXXXXXXXXX..
+XXXXOXOXXXOO
+XXXXXXOX..X.
+XXXXXXOX..OX
+XXXXOXO...X.
+XXXOOOO..X..
+XXXXXXXXXX..
+XXXXXXXXXXXX
+.X.XXXXXXX..
+...XXX.X.X..
+...XX.X.O.X.
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [l4] in 0.07s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+298.690000000001 294.3
+XXXXXXXXXO..
+XXXXXXXXXX..
+XXXXOXOXXXXO
+XXXXXXOX..XX
+XXXXXXOX..OX
+XXXXOXO...X.
+XXXOOOO..X..
+XXXXXXXXXX..
+XXXXXXXXXXXX
+.X.XXXXXXX..
+...XXX.X.X..
+...XX.X.O.X.
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [k10] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+X
+294.3 298.660000000001
+XXXXXXXXXO..
+XXXXXXXXXX..
+XXXXOXOXXXXO
+XXXXXXOX..XX
+XXXXXXOX..OX
+XXXXOXO...X.
+XXXOOOO..X..
+XXXXXXXXXX..
+XXXXXXXXXXXX
+.X.XXXXXXXO.
+...XXX.X.O..
+...XX.X.O.X.
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [l11] in 0.15s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+298.660000000001 294.15
+XXXXXXXXXO..
+XXXXXXXXXX..
+XXXXOXOXXXXO
+XXXXXXOX..XX
+XXXXXXOX..OX
+XXXXOXO...X.
+XXXOOOO..X..
+XXXXXXXXXX..
+XXXXXXXXXXXX
+.X.XXXXXXXX.
+...XXX.X.O.X
+...XX.X.O.X.
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [i5] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+X
+294.15 298.640000000001
+XXXXXXXXXO..
+XXXXXXXXXX..
+XXXXOXOXXXXO
+XXXXXXOO..XX
+XXXXXXOOO.OX
+XXXXOXO...X.
+XXXOOOO..X..
+XXXXXXXXXX..
+XXXXXXXXXXXX
+.X.XXXXXXXX.
+...XXX.X.O.X
+...XX.X.O.X.
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [j5] in 0.12s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+298.640000000001 294.03
+XXXXXXXXXO..
+XXXXXXXXXX..
+XXXXOXOXXXXO
+XXXXXXOO..XX
+XXXXXXXXXXXX
+XXXXOXO...X.
+XXXOOOO..X..
+XXXXXXXXXX..
+XXXXXXXXXXXX
+.X.XXXXXXXX.
+...XXX.X.O.X
+...XX.X.O.X.
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [j4] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+X
+294.03 298.610000000001
+XXXXXXXXXO..
+XXXXXXXXXO..
+XXXXOXOXXOXO
+XXXXXXOO.OXX
+XXXXXXXXXXXX
+XXXXOXO...X.
+XXXOOOO..X..
+XXXXXXXXXX..
+XXXXXXXXXXXX
+.X.XXXXXXXX.
+...XXX.X.O.X
+...XX.X.O.X.
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [k1] in 0.08s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+298.610000000001 293.95
+XXXXXXXXXXX.
+XXXXXXXXXX..
+XXXXOXOXXOXO
+XXXXXXOO.OXX
+XXXXXXXXXXXX
+XXXXOXO...X.
+XXXOOOO..X..
+XXXXXXXXXX..
+XXXXXXXXXXXX
+.X.XXXXXXXX.
+...XXX.X.O.X
+...XX.X.O.X.
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [a10] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+X
+293.95 298.580000000001
+XXXXXXXXXXX.
+XXXXXXXXXX..
+XXXXOXOXXOXO
+XXXXXXOO.OXX
+XXXXXXXXXXXX
+XXXXOXO...X.
+XXXOOOO..X..
+XXOXXXXXXX..
+XOXXXXXXXXXX
+OX.XXXXXXXX.
+...XXX.X.O.X
+...XX.X.O.X.
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [i4] in 0.08s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+298.580000000001 293.87
+XXXXXXXXXXX.
+XXXXXXXXXX..
+XXXXOXOXXOXO
+XXXXXXXXXXXX
+XXXXXXXXXXXX
+XXXXOXO...X.
+XXXOOOO..X..
+XXOXXXXXXX..
+XOXXXXXXXXXX
+OX.XXXXXXXX.
+...XXX.X.O.X
+...XX.X.O.X.
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [b11] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+X
+293.87 298.550000000001
+XXXXXXXXXXX.
+XXXXXXXXXX..
+XXXXOXOXXOXO
+XXXXXXXXXXXX
+XXXXXXXXXXXX
+XXXXOXO...X.
+XXXOOOO..X..
+XXOXXXXXXX..
+XOXXXXXXXXXX
+OO.XXXXXXXX.
+.O.XXX.X.O.X
+...XX.X.O.X.
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [b12] in 0.1s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+298.550000000001 293.77
+XXXXXXXXXXX.
+XXXXXXXXXX..
+XXXXOXOXXOXO
+XXXXXXXXXXXX
+XXXXXXXXXXXX
+XXXXOXO...X.
+XXXOOOO..X..
+XXOXXXXXXX..
+XXXXXXXXXXXX
+OX.XXXXXXXX.
+.X.XXX.X.O.X
+.X.XX.X.O.X.
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [c12] in 0.01s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+X
+293.77 298.540000000001
+XXXXXXXXXXX.
+XXXXXXXXXX..
+XXXXOXOXXOXO
+XXXXXXXXXXXX
+XXXXXXXXXXXX
+XXXXOXO...X.
+XXXOOOO..X..
+XXOXXXXXXX..
+XXXXXXXXXXXX
+OX.XXXXXXXX.
+.O.XXX.X.O.X
+.XOXX.X.O.X.
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [k2] in 0.07s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+298.540000000001 293.7
+XXXXXXXXXXX.
+XXXXXXXXXXX.
+XXXXOXOXXXXO
+XXXXXXXXXXXX
+XXXXXXXXXXXX
+XXXXOXO...X.
+XXXOOOO..X..
+XXOXXXXXXX..
+XXXXXXXXXXXX
+OX.XXXXXXXX.
+.O.XXX.X.O.X
+.XOXX.X.O.X.
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [i6] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+X
+293.7 298.520000000001
+XXXXXXXXXXX.
+XXXXXXXXXXX.
+XXXXOXOXXXXO
+XXXXXXXXXXOX
+XXXXXXXXXOXX
+XXXXOXO.O.X.
+XXXOOOO..X..
+XXOXXXXXXX..
+XXXXXXXXXXXX
+OX.XXXXXXXX.
+.O.XXX.X.O.X
+.XOXX.X.O.X.
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [l2] in 0.07s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+298.520000000001 293.63
+XXXXXXXXXXX.
+XXXXXXXXXXXX
+XXXXOXOXXXXX
+XXXXXXXXXXOX
+XXXXXXXXXOXX
+XXXXOXO.O.X.
+XXXOOOO..X..
+XXOXXXXXXX..
+XXXXXXXXXXXX
+OX.XXXXXXXX.
+.O.XXX.X.O.X
+.XOXX.X.O.X.
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [l1] in 0.04s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+X
+293.63 298.480000000001
+XXXXXXXXXXXO
+XXXXXXXXXXOX
+XXXXOXOXXOXX
+XXXXXXXXOXOX
+XXXXXXXOXOXX
+XXXXOXO.O.X.
+XXXOOOO..X..
+XXOXXXXXXX..
+XXXXXXXXXXXX
+OX.XXXXXXXX.
+.O.XXX.X.O.X
+.XOXX.X.O.X.
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [h7] in 0.07s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+298.480000000001 293.56
+XXXXXXXXXXXO
+XXXXXXXXXXOX
+XXXXOXOXXOXX
+XXXXXXXXOXXX
+XXXXXXXOXXXX
+XXXXOXX.X.X.
+XXXXXXXX.X..
+XXOXXXXXXX..
+XXXXXXXXXXXX
+OX.XXXXXXXX.
+.O.XXX.X.O.X
+.XOXX.X.O.X.
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [j6] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+X
+293.56 298.450000000001
+XXXXXXXXXXXO
+XXXXXXXXXXOX
+XXXXOXOXXOXX
+XXXXXXXOOOXX
+XXXXXXXOOOXX
+XXXXOXX.XOX.
+XXXXXXXX.O..
+XXOXXXXXXO..
+XXXXXXXXXOXX
+OX.XXXXXXOX.
+.O.XXX.X.O.X
+.XOXX.X.O.X.
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [j12] in 0.07s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+298.450000000001 293.49
+XXXXXXXXXXXO
+XXXXXXXXXXOX
+XXXXOXOXXXXX
+XXXXXXXOOXXX
+XXXXXXXOOXXX
+XXXXOXX.XXX.
+XXXXXXXX.X..
+XXOXXXXXXX..
+XXXXXXXXXXXX
+OX.XXXXXXXX.
+.O.XXX.X.X.X
+.XOXX.X.OXX.
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [a11] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+X
+293.49 298.420000000001
+XXXXXXXXXXXO
+XXXXXXXXXXOX
+XXXXOXOXXXXX
+XXXXXXXOOXXX
+XXXXXXOOOXXX
+XXXXOOX.XXX.
+XXXXOXXX.X..
+XXOOXXXXXX..
+XXOXXXXXXXXX
+OO.XXXXXXXX.
+OO.XXX.X.X.X
+.XOXX.X.OXX.
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [h6] in 0.05s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+298.420000000001 293.44
+XXXXXXXXXXXO
+XXXXXXXXXXOX
+XXXXOXOXXXXX
+XXXXXXXXOXXX
+XXXXXXXXXXXX
+XXXXOOXXXXX.
+XXXXOXXX.X..
+XXOOXXXXXX..
+XXOXXXXXXXXX
+OO.XXXXXXXX.
+OO.XXX.X.X.X
+.XOXX.X.OXX.
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [k7] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+X
+293.44 298.400000000001
+XXXXXXXXXXXO
+XXXXXXXXXXOX
+XXXXOXOXXXOX
+XXXXXXXOOXOX
+XXXXXXXXOXOX
+XXXXOOXXXOO.
+XXXXOXXX.XO.
+XXOOXXXXXX..
+XXOXXXXXXXXX
+OO.XXXXXXXX.
+OO.XXX.X.X.X
+.XOXX.X.OXX.
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [k8] in 0.08s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+298.400000000001 293.36
+XXXXXXXXXXXO
+XXXXXXXXXXXX
+XXXXOXOXXXXX
+XXXXXXXOOXXX
+XXXXXXXXOXXX
+XXXXOOXXXOX.
+XXXXOXXX.XX.
+XXOOXXXXXXX.
+XXOXXXXXXXXX
+OO.XXXXXXXX.
+OO.XXX.X.X.X
+.XOXX.X.OXX.
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [g11] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+X
+293.36 298.380000000001
+XXXXXXXXXXXO
+XXXXXXXXXXXX
+XXXXOXOXXXXX
+XXXXXXOOOXXX
+XXXXXXOXOXXX
+XXXXOOOXXOX.
+XXXXOXOX.XX.
+XXOOXXOXXXX.
+XXOXOXOXXXXX
+OO.XXOOXXXX.
+OO.XXXOX.X.X
+.XOXX.X.OXX.
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [h12] in 0.05s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+298.380000000001 293.31
+XXXXXXXXXXXO
+XXXXXXXXXXXX
+XXXXOXOXXXXX
+XXXXXXOOOXXX
+XXXXXXOXOXXX
+XXXXOOOXXOX.
+XXXXOXOX.XX.
+XXOXXXOXXXX.
+XXOXXXOXXXXX
+OO.XXXOXXXX.
+OO.XXXXX.X.X
+.XOXX.XXXXX.
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [c10] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+X
+293.31 298.350000000001
+XXXXXXXXXXXO
+XXXXXXXXXXXX
+XXXXOXOXXXXX
+XXXXXXOOOXXX
+XXXXXXOXOXXX
+XXXXOOOXXOX.
+XXXXOOOX.XX.
+XXOXOXOXXXX.
+XXOOXXOXXXXX
+OOOOOOOXXXX.
+OO.XXXXX.X.X
+.XOXX.XXXXX.
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [a12] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+298.350000000001 293.28
+XXXXXXXXXXXO
+XXXXXXXXXXXX
+XXXXOXOXXXXX
+XXXXXXOOOXXX
+XXXXXXOXOXXX
+XXXXOOXXXOX.
+XXXXOXOX.XX.
+XXOXXXOXXXX.
+XXOXXXOXXXXX
+XOXOOOOXXXX.
+XX.XXXXX.X.X
+XXOXX.XXXXX.
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [i7] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+X
+293.28 298.330000000001
+XXXXXXXXXXXO
+XXXXXXXXXXXX
+XXXXOXOXXXXX
+XXXXXXOOOXXX
+XXXXXXOXOXXX
+XXXXOOXOOOX.
+XXXXOXOOOXX.
+XXOXXXOOXXX.
+XXOXXXOXXXXX
+XOXOOOOXXXX.
+XX.XXXXX.X.X
+XXOXX.XXXXX.
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [c11] in 0.04s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+298.330000000001 293.24
+XXXXXXXXXXXO
+XXXXXXXXXXXX
+XXXXOXOXXXXX
+XXXXXXOOOXXX
+XXXXXXOXOXXX
+XXXXOOXOOOX.
+XXXXOXOOOXX.
+XXOXXXOOXXX.
+XXOXXXOXXXXX
+XXXXOOOXXXX.
+XXXXXXXX.X.X
+XXOXX.XXXXX.
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [k11] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+X
+293.24 298.310000000001
+XXXXXXXXXXXO
+XXXXXXXXXXXX
+XXXXOXOXXXXX
+XXXXXXOOOXXX
+XXXXXXOXOXXX
+XXXXOOXOOOX.
+XXXXOXOOOXX.
+XXOXXXOOXXX.
+XXOXXXOXOXXX
+XXXXOOOXXOX.
+XXXXXXXX.XOX
+XXOXX.XXXXX.
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [l12] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+298.310000000001 293.22
+XXXXXXXXXXXO
+XXXXXXXXXXXX
+XXXXOXOXXXXX
+XXXXXXOOOXXX
+XXXXXXOXOXXX
+XXXXOXXOOOX.
+XXXXOXXOOXX.
+XXOXXXOXXXX.
+XXOXXXOXXXXX
+XXXXOOOXXXX.
+XXXXXXXX.XXX
+XXOXX.XXXXXX
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [i11] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+===== minimax (X) must pass... =====
+INPUT for student:
+O
+298.280000000001 293.22
+XXXXXXXXXXXO
+XXXXXXXXXXXX
+XXXXOXOXXXXX
+XXXXXXOOOXXX
+XXXXXXOXOXXX
+XXXXOXXOOOX.
+XXXXOXXOOXX.
+XXOXXXOXOXX.
+XXOXXXOXOXXX
+XXXXOOOOOXX.
+XXXXXXXXOXXX
+XXOXX.XXXXXX
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [l10] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+X
+293.22 298.260000000001
+XXXXXXXXXXXO
+XXXXXXXXXXXX
+XXXXOXOXXXXX
+XXXXXXOOOXXX
+XXXXXXOXOXXX
+XXXXOXXOOOX.
+XXXXOXXOOXX.
+XXOXXXOXOOX.
+XXOXXXOXOXOX
+XXXXOOOOOOOO
+XXXXXXXXOXXX
+XXOXX.XXXXXX
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [l8] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+298.260000000001 293.2
+XXXXXXXXXXXO
+XXXXXXXXXXXX
+XXXXOXOXXXXX
+XXXXXXOOOXXX
+XXXXXXOXOXXX
+XXXXOXXOOOX.
+XXXXOXXOOXX.
+XXOXXXOXOOXX
+XXOXXXOXOXXX
+XXXXOOOOOXOO
+XXXXXXXXXXXX
+XXOXX.XXXXXX
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [l6] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for minimax:
+X
+293.2 298.230000000001
+XXXXXXXXXXXO
+XXXXXXXXXXXO
+XXXXOXOXXXXO
+XXXXXXOOOXXO
+XXXXXXOXOXXO
+XXXXOXXOOOOO
+XXXXOXXOOXO.
+XXOXXXOXOOXX
+XXOXXXOXOXXX
+XXXXOOOOOXOO
+XXXXXXXXXXXX
+XXOXX.XXXXXX
+##### Running: minimax-agent on homework2 #####
+##### SUCCESS: minimax-agent on homework2 #####
+##### minimax plays [l7] in 0.03s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+INPUT for student:
+O
+298.230000000001 293.17
+XXXXXXXXXXXO
+XXXXXXXXXXXO
+XXXXOXOXXXXO
+XXXXXXOOOXXO
+XXXXXXOXOXXO
+XXXXOXXOOOXO
+XXXXOXXOOXXX
+XXOXXXOXOOXX
+XXOXXXOXOXXX
+XXXXOOOOOXOO
+XXXXXXXXXXXX
+XXOXX.XXXXXX
+##### Running: C++ homework on homework2 #####
+##### SUCCESS: C++ homework on homework2 #####
+##### student plays [f12] in 0.02s #####
+##### Running: output checker on homework2 #####
+##### SUCCESS: output checker on homework2 #####
+##### GAME END. #####
+Pieces (including bonus) for minimax (X): 103, student (O): 42
+Final state of the game:
+XXXXXXXXXXXO
+XXXXXXXXXXXO
+XXXXOXOXXXXO
+XXXXXXOOOXXO
+XXXXXXOXOXXO
+XXXXOXXOOOXO
+XXXXOXXOOXXX
+XXOXXXOXOOXX
+XXOXXXOXOXXX
+XXXOOOOOOXOO
+XXXXOOOXXXXX
+XXOOOOXXXXXX
+##### GAME OVER: minimax wins by number of pieces #####
+########## ROUND 1 GAMESCORE AFTER GAME 2: minimax=2 and student=0 ##########
